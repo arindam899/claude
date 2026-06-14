@@ -1,0 +1,1368 @@
+2026-05-22 12:20:32,145  INFO      main - ============================================================
+2026-05-22 12:20:32,147  INFO      main - ETH Futures Grid bot starting
+2026-05-22 12:20:32,147  INFO      main - ============================================================
+2026-05-22 12:20:33,015  INFO      main - Wallet balance: 953.03 USD
+2026-05-22 12:20:33,017  INFO      main - Deployable grid capital: 476.51 USD (50% of wallet)
+2026-05-22 12:20:33,019  INFO      main - ETH Futures Grid bot running | ETHUSD | EMA9/21 4h
+2026-05-22 12:20:34,623  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 12:20:34,883  INFO      main - Wallet balance: 953.03 USD
+2026-05-22 12:20:34,916  INFO      main - Deployable grid capital: 476.51 USD (50% of wallet)
+2026-05-22 12:20:35,142  INFO      DeltaIndiaClient - Delta margin mode is account/product controlled; skipping CROSSED
+2026-05-22 12:20:35,389  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 12:20:35,397  INFO      GridEngine -   GRID ACTIVATED — SHORT
+2026-05-22 12:20:35,400  INFO      GridEngine -   Range    : 1,987.0 → 2,156.8
+2026-05-22 12:20:35,425  INFO      GridEngine -   Grids    : 25 | P/Grid: ~0.342%
+2026-05-22 12:20:35,425  INFO      GridEngine -   Leverage : 5x | Qty/Grid: 3
+2026-05-22 12:20:35,426  INFO      GridEngine -   Reason   : 4h EMA9/21 trend SHORT
+2026-05-22 12:20:35,427  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 12:20:36,969  INFO      GridEngine - 📍 Initial SELL position: 18 @ ~2,122.85
+2026-05-22 12:20:46,516  INFO      GridEngine - ✅ Grid placed: 26 orders
+2026-05-22 12:20:46,824  INFO      GridEngine - 🛑 SL placed @ 2,210.70
+2026-05-22 12:20:47,250  INFO      GridEngine - 🎯 TP placed @ 1,927.35
+2026-05-22 12:20:50,161  INFO      GridEngine - ↺ Fill #1 @ 1,987.00 → Counter [SELL] @ 1,993.75
+2026-05-22 12:20:50,763  INFO      GridEngine - ↺ Fill #6 @ 2,020.95 → Counter [SELL] @ 2,027.75
+2026-05-22 12:20:51,208  INFO      GridEngine - ↺ Fill #7 @ 2,027.75 → Counter [SELL] @ 2,034.50
+2026-05-22 12:20:52,036  INFO      GridEngine - ↺ Fill #13 @ 2,068.50 → Counter [SELL] @ 2,075.30
+2026-05-22 12:20:52,693  INFO      GridEngine - ↺ Fill #14 @ 2,075.30 → Counter [SELL] @ 2,082.05
+2026-05-22 12:20:52,699  INFO      main - ACTIVE | ETHUSD price 2122.85
+2026-05-22 12:21:39,171  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 12:21:39,412  INFO      main - ACTIVE | ETHUSD price 2122.70
+2026-05-22 12:22:41,362  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 12:22:41,470  INFO      main - ACTIVE | ETHUSD price 2122.85
+2026-05-22 12:23:43,203  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 12:23:43,438  INFO      main - ACTIVE | ETHUSD price 2121.80
+2026-05-22 13:03:05,901  INFO      main - ============================================================
+2026-05-22 13:03:05,980  INFO      main - ETH Futures Grid bot starting
+2026-05-22 13:03:06,049  INFO      main - ============================================================
+2026-05-22 13:03:06,846  INFO      main - Wallet balance: 856.17 USD
+2026-05-22 13:03:06,846  INFO      main - Deployable grid capital: 428.09 USD (50% of wallet)
+2026-05-22 13:03:06,847  INFO      main - ETH Futures Grid bot running | ETHUSD | EMA9/21 4h
+2026-05-22 13:03:08,455  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:03:08,708  INFO      main - Wallet balance: 856.17 USD
+2026-05-22 13:03:08,709  INFO      main - Deployable grid capital: 428.09 USD (50% of wallet)
+2026-05-22 13:03:08,795  INFO      DeltaIndiaClient - Delta margin mode is account/product controlled; skipping CROSSED
+2026-05-22 13:03:09,022  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 13:03:09,024  INFO      GridEngine -   GRID ACTIVATED — SHORT
+2026-05-22 13:03:09,025  INFO      GridEngine -   Range    : 1,990.3 → 2,160.4
+2026-05-22 13:03:09,026  INFO      GridEngine -   Grids    : 12 | P/Grid: ~0.712%
+2026-05-22 13:03:09,026  INFO      GridEngine -   Leverage : 5x | Qty/Grid: 6
+2026-05-22 13:03:09,026  INFO      GridEngine -   Reason   : 4h EMA9/21 trend SHORT
+2026-05-22 13:03:09,026  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 13:03:10,399  INFO      GridEngine - 📍 Initial SELL position: 18 @ ~2,126.40
+2026-05-22 13:03:14,773  INFO      GridEngine - ✅ Grid placed: 13 orders
+2026-05-22 13:03:14,869  INFO      GridEngine - 🛑 SL placed @ 2,214.40
+2026-05-22 13:03:15,002  INFO      GridEngine - 🎯 TP placed @ 1,930.55
+2026-05-22 13:03:18,247  INFO      GridEngine - ↺ Fill #1 @ 1,990.30 → Counter [SELL] @ 2,004.45
+2026-05-22 13:03:18,661  INFO      GridEngine - ↺ Fill #3 @ 2,018.65 → Counter [SELL] @ 2,032.80
+2026-05-22 13:03:19,275  INFO      GridEngine - ↺ Fill #5 @ 2,047.00 → Counter [SELL] @ 2,061.15
+2026-05-22 13:03:19,294  INFO      main - ACTIVE | ETHUSD price 2126.40
+2026-05-22 13:04:21,081  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:04:21,327  INFO      main - ACTIVE | ETHUSD price 2125.00
+2026-05-22 13:05:23,279  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:05:23,519  INFO      main - ACTIVE | ETHUSD price 2124.75
+2026-05-22 13:05:55,366  INFO      main - ============================================================
+2026-05-22 13:05:55,367  INFO      main - ETH Futures Grid bot starting
+2026-05-22 13:05:55,368  INFO      main - ============================================================
+2026-05-22 13:05:56,251  INFO      main - Wallet balance: 998.12 USD
+2026-05-22 13:05:56,252  INFO      main - Deployable grid capital: 499.06 USD (50% of wallet)
+2026-05-22 13:05:56,252  INFO      main - ETH Futures Grid bot running | ETHUSD | EMA9/21 4h
+2026-05-22 13:05:58,156  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:05:58,651  INFO      main - Wallet balance: 998.12 USD
+2026-05-22 13:05:58,653  INFO      main - Deployable grid capital: 499.06 USD (50% of wallet)
+2026-05-22 13:05:58,879  INFO      DeltaIndiaClient - Delta margin mode is account/product controlled; skipping CROSSED
+2026-05-22 13:05:59,115  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 13:05:59,116  INFO      GridEngine -   GRID ACTIVATED — SHORT
+2026-05-22 13:05:59,116  INFO      GridEngine -   Range    : 1,988.3 → 2,158.3
+2026-05-22 13:05:59,117  INFO      GridEngine -   Grids    : 12 | P/Grid: ~0.713%
+2026-05-22 13:05:59,117  INFO      GridEngine -   Leverage : 5x | Qty/Grid: 7
+2026-05-22 13:05:59,118  INFO      GridEngine -   Reason   : 4h EMA9/21 trend SHORT
+2026-05-22 13:05:59,118  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 13:06:00,535  INFO      GridEngine - 📍 Initial SELL position: 21 @ ~2,124.30
+2026-05-22 13:06:05,362  INFO      GridEngine - ✅ Grid placed: 13 orders
+2026-05-22 13:06:05,457  INFO      GridEngine - 🛑 SL placed @ 2,212.25
+2026-05-22 13:06:05,675  INFO      GridEngine - 🎯 TP placed @ 1,928.65
+2026-05-22 13:06:07,724  INFO      GridEngine - ↺ Fill #1 @ 1,988.30 → Counter [SELL] @ 2,002.45
+2026-05-22 13:06:08,091  INFO      GridEngine - ↺ Fill #4 @ 2,030.80 → Counter [SELL] @ 2,044.95
+2026-05-22 13:06:08,093  INFO      main - ACTIVE | ETHUSD price 2124.30
+2026-05-22 13:07:09,885  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:07:09,986  INFO      main - ACTIVE | ETHUSD price 2124.10
+2026-05-22 13:08:11,658  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:08:11,764  INFO      main - ACTIVE | ETHUSD price 2125.35
+2026-05-22 13:09:13,606  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:09:13,840  INFO      main - ACTIVE | ETHUSD price 2124.95
+2026-05-22 13:10:15,756  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:10:15,991  INFO      main - ACTIVE | ETHUSD price 2124.90
+2026-05-22 13:11:17,958  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:11:18,199  INFO      main - ACTIVE | ETHUSD price 2126.45
+2026-05-22 13:12:20,136  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:12:20,375  INFO      main - ACTIVE | ETHUSD price 2126.10
+2026-05-22 13:13:22,297  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:13:22,534  INFO      main - ACTIVE | ETHUSD price 2126.25
+2026-05-22 13:14:24,460  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:14:24,700  INFO      main - ACTIVE | ETHUSD price 2125.70
+2026-05-22 13:15:26,623  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:15:26,867  INFO      main - ACTIVE | ETHUSD price 2125.35
+2026-05-22 13:16:28,774  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:16:28,875  INFO      main - ACTIVE | ETHUSD price 2125.10
+2026-05-22 13:17:30,871  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:17:31,106  INFO      main - ACTIVE | ETHUSD price 2125.10
+2026-05-22 13:18:33,175  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:18:33,419  INFO      main - ACTIVE | ETHUSD price 2125.80
+2026-05-22 13:19:35,337  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:19:35,577  INFO      main - ACTIVE | ETHUSD price 2125.65
+2026-05-22 13:20:37,353  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:20:37,593  INFO      main - ACTIVE | ETHUSD price 2125.60
+2026-05-22 13:21:39,574  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:21:39,678  INFO      main - ACTIVE | ETHUSD price 2125.40
+2026-05-22 13:22:41,685  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:22:41,923  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 13:23:43,852  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:23:44,095  INFO      main - ACTIVE | ETHUSD price 2125.45
+2026-05-22 13:24:46,020  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:24:46,258  INFO      main - ACTIVE | ETHUSD price 2125.35
+2026-05-22 13:25:48,265  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:25:48,507  INFO      main - ACTIVE | ETHUSD price 2124.50
+2026-05-22 13:26:50,281  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:26:50,394  INFO      main - ACTIVE | ETHUSD price 2124.15
+2026-05-22 13:27:52,308  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:27:52,419  INFO      main - ACTIVE | ETHUSD price 2124.10
+2026-05-22 13:28:54,203  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:28:54,442  INFO      main - ACTIVE | ETHUSD price 2124.00
+2026-05-22 13:29:56,359  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:29:56,609  INFO      main - ACTIVE | ETHUSD price 2123.55
+2026-05-22 13:30:58,529  INFO      Signal - EMA trend -> SHORT | EMA9 2128.46 -> 2129.43 | EMA21 2134.51 -> 2134.40 | BB bandwidth 0.0233
+2026-05-22 13:30:58,768  INFO      main - ACTIVE | ETHUSD price 2124.75
+2026-05-22 13:32:00,582  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:32:00,820  INFO      main - ACTIVE | ETHUSD price 2124.40
+2026-05-22 13:33:02,750  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:33:02,853  INFO      main - ACTIVE | ETHUSD price 2124.75
+2026-05-22 13:34:04,643  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:34:04,878  INFO      main - ACTIVE | ETHUSD price 2124.75
+2026-05-22 13:35:06,456  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:35:06,559  INFO      main - ACTIVE | ETHUSD price 2124.60
+2026-05-22 13:36:08,349  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:36:08,587  INFO      main - ACTIVE | ETHUSD price 2123.55
+2026-05-22 13:37:10,497  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:37:10,739  INFO      main - ACTIVE | ETHUSD price 2122.15
+2026-05-22 13:38:12,656  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:38:12,898  INFO      main - ACTIVE | ETHUSD price 2121.10
+2026-05-22 13:39:14,849  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:39:15,091  INFO      main - ACTIVE | ETHUSD price 2121.90
+2026-05-22 13:40:16,904  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:40:17,140  INFO      main - ACTIVE | ETHUSD price 2121.80
+2026-05-22 13:41:19,062  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:41:19,167  INFO      main - ACTIVE | ETHUSD price 2122.85
+2026-05-22 13:42:20,953  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:42:21,196  INFO      main - ACTIVE | ETHUSD price 2123.95
+2026-05-22 13:43:23,122  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:43:23,363  INFO      main - ACTIVE | ETHUSD price 2123.30
+2026-05-22 13:44:25,299  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:44:25,538  INFO      main - ACTIVE | ETHUSD price 2123.45
+2026-05-22 13:45:27,548  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:45:27,786  INFO      main - ACTIVE | ETHUSD price 2124.85
+2026-05-22 13:46:29,564  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:46:29,803  INFO      main - ACTIVE | ETHUSD price 2127.10
+2026-05-22 13:47:31,717  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:47:31,956  INFO      main - ACTIVE | ETHUSD price 2127.20
+2026-05-22 13:48:33,801  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:48:34,037  INFO      main - ACTIVE | ETHUSD price 2127.50
+2026-05-22 13:49:35,986  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:49:36,223  INFO      main - ACTIVE | ETHUSD price 2127.55
+2026-05-22 13:50:38,194  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:50:38,435  INFO      main - ACTIVE | ETHUSD price 2128.45
+2026-05-22 13:51:40,362  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:51:40,598  INFO      main - ACTIVE | ETHUSD price 2126.10
+2026-05-22 13:52:42,529  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:52:42,629  INFO      main - ACTIVE | ETHUSD price 2125.65
+2026-05-22 13:53:44,474  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:53:44,716  INFO      main - ACTIVE | ETHUSD price 2126.50
+2026-05-22 13:54:46,537  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:54:46,638  INFO      main - ACTIVE | ETHUSD price 2126.90
+2026-05-22 13:55:48,619  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:55:48,856  INFO      main - ACTIVE | ETHUSD price 2127.10
+2026-05-22 13:56:50,511  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:56:50,748  INFO      main - ACTIVE | ETHUSD price 2126.85
+2026-05-22 13:57:52,260  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:57:52,367  INFO      main - ACTIVE | ETHUSD price 2126.30
+2026-05-22 13:58:54,144  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:58:54,381  INFO      main - ACTIVE | ETHUSD price 2125.85
+2026-05-22 13:59:56,304  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 13:59:56,544  INFO      main - ACTIVE | ETHUSD price 2126.95
+2026-05-22 14:00:58,446  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:00:58,555  INFO      main - ACTIVE | ETHUSD price 2127.65
+2026-05-22 14:02:00,498  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:02:00,736  INFO      main - ACTIVE | ETHUSD price 2125.95
+2026-05-22 14:03:02,368  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:03:02,468  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:04:04,398  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:04:04,637  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:05:06,424  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:05:06,663  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:06:08,505  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:06:08,747  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:07:10,688  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:07:10,931  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:08:12,637  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:08:12,873  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:09:17,857  ERROR     Signal - Signal fetch failed: HTTPSConnectionPool(host='cdn-ind.testnet.deltaex.org', port=443): Max retries exceeded with url: /v2/history/candles?end=1779439154&resolution=4h&start=1777552754&symbol=ETHUSD (Caused by ResponseError('too many 502 error responses'))
+2026-05-22 14:09:21,370  ERROR     main - Grid bot loop error: HTTPSConnectionPool(host='cdn-ind.testnet.deltaex.org', port=443): Max retries exceeded with url: /v2/orders?product_id=1699&state=open (Caused by ResponseError('too many 502 error responses'))
+urllib3.exceptions.ResponseError: too many 502 error responses
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\Administrator\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 955, in urlopen
+    return self.urlopen(
+           ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<13 lines>...
+        **response_kw,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 955, in urlopen
+    return self.urlopen(
+           ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<13 lines>...
+        **response_kw,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 955, in urlopen
+    return self.urlopen(
+           ~~~~~~~~~~~~^
+        method,
+        ^^^^^^^
+    ...<13 lines>...
+        **response_kw,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Administrator\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 945, in urlopen
+    retries = retries.increment(method, url, response=response, _pool=self)
+  File "C:\Users\Administrator\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='cdn-ind.testnet.deltaex.org', port=443): Max retries exceeded with url: /v2/orders?product_id=1699&state=open (Caused by ResponseError('too many 502 error responses'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Administrator\OneDrive\Documents\drive-download-20260521T043934Z-3-001\futures_grid_bot\main.py", line 166, in run
+    self.engine.check_fills(current_price)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "c:\Users\Administrator\OneDrive\Documents\drive-download-20260521T043934Z-3-001\futures_grid_bot\grid_engine.py", line 328, in check_fills
+    open_ids = {o["orderId"] for o in self.client.get_open_orders(self.symbol)}
+                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\Users\Administrator\OneDrive\Documents\drive-download-20260521T043934Z-3-001\futures_grid_bot\client.py", line 306, in get_open_orders
+    orders = self._request(
+        "GET",
+        "/v2/orders",
+        params={"product_id": self._product_id(symbol), "state": "open"},
+    )
+  File "c:\Users\Administrator\OneDrive\Documents\drive-download-20260521T043934Z-3-001\futures_grid_bot\client.py", line 92, in _request
+    response = self.session.request(
+        method.upper(),
+    ...<3 lines>...
+        timeout=15,
+    )
+  File "C:\Users\Administrator\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\Administrator\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 510, in send
+    raise RetryError(e, request=request)
+requests.exceptions.RetryError: HTTPSConnectionPool(host='cdn-ind.testnet.deltaex.org', port=443): Max retries exceeded with url: /v2/orders?product_id=1699&state=open (Caused by ResponseError('too many 502 error responses'))
+2026-05-22 14:09:53,396  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:10:24,346  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:10:55,409  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:11:26,367  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:11:57,572  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:12:28,542  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:12:59,454  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:13:30,270  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:14:01,354  INFO      main - ACTIVE | ETHUSD price 2125.60
+2026-05-22 14:14:32,305  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:15:03,282  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:15:34,098  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:16:05,297  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:16:36,249  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:17:07,435  INFO      main - ACTIVE | ETHUSD price 2126.00
+2026-05-22 14:17:38,396  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:18:09,454  INFO      main - ACTIVE | ETHUSD price 2125.60
+2026-05-22 14:18:40,404  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:19:11,601  INFO      main - ACTIVE | ETHUSD price 2125.60
+2026-05-22 14:19:42,420  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:20:13,411  INFO      main - ACTIVE | ETHUSD price 2125.60
+2026-05-22 14:20:44,357  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:21:15,586  INFO      main - ACTIVE | ETHUSD price 2125.60
+2026-05-22 14:21:46,554  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:22:17,846  INFO      main - ACTIVE | ETHUSD price 2118.65
+2026-05-22 14:22:48,878  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:23:20,078  INFO      main - ACTIVE | ETHUSD price 2119.60
+2026-05-22 14:23:51,027  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:24:22,104  INFO      main - ACTIVE | ETHUSD price 2120.05
+2026-05-22 14:24:52,926  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:25:24,000  INFO      main - ACTIVE | ETHUSD price 2120.20
+2026-05-22 14:25:54,951  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:26:26,141  INFO      main - ACTIVE | ETHUSD price 2120.10
+2026-05-22 14:26:57,084  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:27:28,293  INFO      main - ACTIVE | ETHUSD price 2119.80
+2026-05-22 14:27:59,106  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0233
+2026-05-22 14:37:47,876  INFO      main - ============================================================
+2026-05-22 14:37:47,880  INFO      main - ETH Futures Grid bot starting
+2026-05-22 14:37:47,881  INFO      main - ============================================================
+2026-05-22 14:37:48,562  INFO      main - Wallet balance: 999.23 USD
+2026-05-22 14:37:48,564  INFO      main - Deployable grid capital: 499.61 USD (50% of wallet)
+2026-05-22 14:37:48,565  INFO      main - ETH Futures Grid bot running | ETHUSD | EMA9/21 4h
+2026-05-22 14:37:50,058  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:37:50,539  INFO      main - Wallet balance: 999.23 USD
+2026-05-22 14:37:50,540  INFO      main - Deployable grid capital: 499.61 USD (50% of wallet)
+2026-05-22 14:37:50,767  INFO      DeltaIndiaClient - Delta margin mode is account/product controlled; skipping CROSSED
+2026-05-22 14:37:50,869  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 14:37:50,872  INFO      GridEngine -   GRID ACTIVATED — SHORT
+2026-05-22 14:37:50,874  INFO      GridEngine -   Range    : 2,053.3 → 2,200.6
+2026-05-22 14:37:50,875  INFO      GridEngine -   Grids    : 12 | P/Grid: ~0.598%
+2026-05-22 14:37:50,875  INFO      GridEngine -   Leverage : 5x | Qty/Grid: 7
+2026-05-22 14:37:50,876  INFO      GridEngine -   Reason   : 4h EMA9/21 trend SHORT
+2026-05-22 14:37:50,876  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 14:37:52,778  INFO      GridEngine - 📍 Initial SELL position: 21 @ ~2,116.15
+2026-05-22 14:37:57,146  INFO      GridEngine - ✅ Grid placed: 13 orders
+2026-05-22 14:37:57,451  INFO      GridEngine - 🛑 SL placed @ 2,255.60
+2026-05-22 14:37:57,754  INFO      GridEngine - 🎯 TP placed @ 1,991.70
+2026-05-22 14:37:59,245  INFO      GridEngine - ↺ Fill #1 @ 2,053.30 → Counter [SELL] @ 2,065.55
+2026-05-22 14:37:59,877  INFO      GridEngine - ↺ Fill #3 @ 2,077.85 → Counter [SELL] @ 2,090.10
+2026-05-22 14:38:00,262  INFO      GridEngine - ↺ Fill #5 @ 2,102.40 → Counter [SELL] @ 2,114.65
+2026-05-22 14:38:00,263  INFO      main - ACTIVE | ETHUSD price 2116.15
+2026-05-22 14:39:02,287  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:39:02,391  INFO      main - ACTIVE | ETHUSD price 2116.35
+2026-05-22 14:40:04,312  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:40:04,550  INFO      main - ACTIVE | ETHUSD price 2116.30
+2026-05-22 14:41:06,474  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:41:06,713  INFO      main - ACTIVE | ETHUSD price 2116.80
+2026-05-22 14:42:08,617  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:42:08,855  INFO      main - ACTIVE | ETHUSD price 2116.30
+2026-05-22 14:43:10,396  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:43:10,632  INFO      main - ACTIVE | ETHUSD price 2116.60
+2026-05-22 14:44:12,571  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:44:12,809  INFO      main - ACTIVE | ETHUSD price 2115.45
+2026-05-22 14:45:14,600  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:45:14,830  INFO      main - ACTIVE | ETHUSD price 2115.40
+2026-05-22 14:46:16,757  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:46:16,858  INFO      main - ACTIVE | ETHUSD price 2116.25
+2026-05-22 14:47:18,655  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:47:18,897  INFO      main - ACTIVE | ETHUSD price 2115.60
+2026-05-22 14:48:20,775  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:48:21,012  INFO      main - ACTIVE | ETHUSD price 2114.65
+2026-05-22 14:49:22,912  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:49:23,151  INFO      main - ACTIVE | ETHUSD price 2115.65
+2026-05-22 14:50:25,063  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:50:25,303  INFO      main - ACTIVE | ETHUSD price 2115.70
+2026-05-22 14:51:26,927  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:51:27,028  INFO      main - ACTIVE | ETHUSD price 2117.00
+2026-05-22 14:52:28,801  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:52:29,041  INFO      main - ACTIVE | ETHUSD price 2117.70
+2026-05-22 14:53:30,835  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:53:31,103  INFO      main - ACTIVE | ETHUSD price 2117.95
+2026-05-22 14:54:33,078  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:54:33,332  INFO      main - ACTIVE | ETHUSD price 2117.75
+2026-05-22 14:55:35,257  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:55:35,492  INFO      main - ACTIVE | ETHUSD price 2118.15
+2026-05-22 14:56:37,276  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:56:37,518  INFO      main - ACTIVE | ETHUSD price 2117.70
+2026-05-22 14:57:39,438  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:57:39,677  INFO      main - ACTIVE | ETHUSD price 2118.75
+2026-05-22 14:58:41,586  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:58:41,822  INFO      main - ACTIVE | ETHUSD price 2117.75
+2026-05-22 14:59:43,500  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 14:59:43,737  INFO      main - ACTIVE | ETHUSD price 2117.05
+2026-05-22 15:00:45,566  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:00:45,670  INFO      main - ACTIVE | ETHUSD price 2117.70
+2026-05-22 15:01:47,523  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:01:47,757  INFO      main - ACTIVE | ETHUSD price 2115.60
+2026-05-22 15:02:49,403  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:02:49,503  INFO      main - ACTIVE | ETHUSD price 2116.00
+2026-05-22 15:03:51,431  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:03:51,669  INFO      main - ACTIVE | ETHUSD price 2115.75
+2026-05-22 15:04:53,598  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:04:53,851  INFO      main - ACTIVE | ETHUSD price 2115.90
+2026-05-22 15:05:55,653  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:05:55,893  INFO      main - ACTIVE | ETHUSD price 2114.80
+2026-05-22 15:06:57,786  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:06:58,024  INFO      main - ACTIVE | ETHUSD price 2116.00
+2026-05-22 15:08:00,178  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:08:00,423  INFO      main - ACTIVE | ETHUSD price 2116.35
+2026-05-22 15:09:02,350  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:09:02,452  INFO      main - ACTIVE | ETHUSD price 2116.95
+2026-05-22 15:10:04,386  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:10:04,624  INFO      main - ACTIVE | ETHUSD price 2117.55
+2026-05-22 15:16:48,473  INFO      main - ============================================================
+2026-05-22 15:16:48,479  INFO      main - ETH Futures Grid bot starting
+2026-05-22 15:16:48,485  INFO      main - ============================================================
+2026-05-22 15:16:49,312  INFO      main - Wallet balance: 997.85 USD
+2026-05-22 15:16:49,313  INFO      main - Deployable grid capital: 498.93 USD (50% of wallet)
+2026-05-22 15:16:49,314  INFO      main - ETH Futures Grid bot running | ETHUSD | EMA9/21 4h
+2026-05-22 15:16:50,674  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:16:50,924  INFO      main - Wallet balance: 997.85 USD
+2026-05-22 15:16:50,925  INFO      main - Deployable grid capital: 498.93 USD (50% of wallet)
+2026-05-22 15:16:51,155  INFO      DeltaIndiaClient - Delta margin mode is account/product controlled; skipping CROSSED
+2026-05-22 15:16:51,257  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 15:16:51,258  INFO      GridEngine -   GRID ACTIVATED — SHORT
+2026-05-22 15:16:51,259  INFO      GridEngine -   Range    : 2,053.3 → 2,200.6
+2026-05-22 15:16:51,259  INFO      GridEngine -   Grids    : 12 | P/Grid: ~0.598%
+2026-05-22 15:16:51,260  INFO      GridEngine -   Leverage : 5x | Qty/Grid: 7
+2026-05-22 15:16:51,261  INFO      GridEngine -   Reason   : 4h EMA9/21 trend SHORT
+2026-05-22 15:16:51,261  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 15:16:52,837  INFO      GridEngine - 📍 Initial SELL position: 21 @ ~2,116.95
+2026-05-22 15:16:57,521  INFO      GridEngine - Grid placed: 12 orders (6 BUY / 6 SELL)
+2026-05-22 15:16:57,823  INFO      GridEngine - 🛑 SL placed @ 2,233.60
+2026-05-22 15:16:57,920  INFO      GridEngine - 🎯 TP placed @ 2,022.50
+2026-05-22 15:16:59,506  INFO      GridEngine - ↺ Fill #1 @ 2,053.30 → Counter [SELL] @ 2,065.55
+2026-05-22 15:16:59,917  INFO      GridEngine - ↺ Fill #3 @ 2,077.85 → Counter [SELL] @ 2,090.10
+2026-05-22 15:16:59,918  INFO      main - ACTIVE | ETHUSD price 2116.95
+2026-05-22 15:18:02,123  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:18:02,637  INFO      main - ACTIVE | ETHUSD price 2116.80
+2026-05-22 15:19:04,422  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:19:04,670  INFO      main - ACTIVE | ETHUSD price 2116.65
+2026-05-22 15:20:06,594  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:20:06,835  INFO      main - ACTIVE | ETHUSD price 2117.65
+2026-05-22 15:21:08,616  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:21:08,861  INFO      main - ACTIVE | ETHUSD price 2118.75
+2026-05-22 15:22:10,804  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:22:10,908  INFO      main - ACTIVE | ETHUSD price 2118.95
+2026-05-22 15:23:12,555  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:23:12,792  INFO      main - ACTIVE | ETHUSD price 2119.45
+2026-05-22 15:24:14,578  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:24:14,824  INFO      main - ACTIVE | ETHUSD price 2119.20
+2026-05-22 15:25:16,778  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:25:17,020  INFO      main - ACTIVE | ETHUSD price 2119.70
+2026-05-22 15:26:18,817  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:26:19,056  INFO      main - ACTIVE | ETHUSD price 2120.15
+2026-05-22 15:27:20,716  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:27:20,951  INFO      main - ACTIVE | ETHUSD price 2120.05
+2026-05-22 15:28:22,884  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:28:23,123  INFO      main - ACTIVE | ETHUSD price 2119.80
+2026-05-22 15:29:25,075  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:29:25,317  INFO      main - ACTIVE | ETHUSD price 2118.85
+2026-05-22 15:30:27,231  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:30:27,475  INFO      main - ACTIVE | ETHUSD price 2118.15
+2026-05-22 15:31:29,401  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:31:29,644  INFO      main - ACTIVE | ETHUSD price 2118.45
+2026-05-22 15:32:31,465  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:32:31,575  INFO      main - ACTIVE | ETHUSD price 2119.05
+2026-05-22 15:33:33,404  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:33:33,641  INFO      main - ACTIVE | ETHUSD price 2118.90
+2026-05-22 15:34:35,323  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:34:35,571  INFO      main - ACTIVE | ETHUSD price 2117.10
+2026-05-22 15:35:37,245  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:35:37,484  INFO      main - ACTIVE | ETHUSD price 2117.80
+2026-05-22 15:36:39,168  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:36:39,408  INFO      main - ACTIVE | ETHUSD price 2118.30
+2026-05-22 15:37:41,343  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:37:41,585  INFO      main - ACTIVE | ETHUSD price 2118.75
+2026-05-22 15:38:43,523  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:38:43,761  INFO      main - ACTIVE | ETHUSD price 2119.60
+2026-05-22 15:39:45,570  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:39:45,805  INFO      main - ACTIVE | ETHUSD price 2119.45
+2026-05-22 15:40:47,746  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:40:47,989  INFO      main - ACTIVE | ETHUSD price 2118.95
+2026-05-22 15:41:49,906  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:41:50,149  INFO      main - ACTIVE | ETHUSD price 2119.70
+2026-05-22 15:42:51,800  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:42:52,042  INFO      main - ACTIVE | ETHUSD price 2119.45
+2026-05-22 15:43:53,844  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:43:54,083  INFO      main - ACTIVE | ETHUSD price 2119.05
+2026-05-22 15:44:56,035  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:44:56,277  INFO      main - ACTIVE | ETHUSD price 2118.55
+2026-05-22 15:45:58,211  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:45:58,452  INFO      main - ACTIVE | ETHUSD price 2117.45
+2026-05-22 15:47:00,424  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:47:00,662  INFO      main - ACTIVE | ETHUSD price 2116.25
+2026-05-22 15:48:02,650  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:48:02,895  INFO      main - ACTIVE | ETHUSD price 2116.80
+2026-05-22 15:49:04,915  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:49:05,153  INFO      main - ACTIVE | ETHUSD price 2117.50
+2026-05-22 15:50:07,081  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:50:07,328  INFO      main - ACTIVE | ETHUSD price 2116.95
+2026-05-22 15:51:08,879  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:51:09,122  INFO      main - ACTIVE | ETHUSD price 2116.55
+2026-05-22 15:52:11,085  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:52:11,188  INFO      main - ACTIVE | ETHUSD price 2117.15
+2026-05-22 15:53:12,970  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:53:13,323  INFO      main - ACTIVE | ETHUSD price 2117.90
+2026-05-22 15:54:15,167  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:54:15,264  INFO      main - ACTIVE | ETHUSD price 2118.20
+2026-05-22 15:56:10,683  INFO      main - ============================================================
+2026-05-22 15:56:10,684  INFO      main - ETH Futures Grid bot starting
+2026-05-22 15:56:10,685  INFO      main - ============================================================
+2026-05-22 15:56:11,318  INFO      main - Wallet balance: 996.21 USD
+2026-05-22 15:56:11,322  INFO      main - Deployable grid capital: 498.10 USD (50% of wallet)
+2026-05-22 15:56:11,323  INFO      main - ETH Futures Grid bot running | ETHUSD | EMA9/21 4h
+2026-05-22 15:56:13,742  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:56:13,990  INFO      main - Wallet balance: 996.21 USD
+2026-05-22 15:56:13,991  INFO      main - Deployable grid capital: 498.10 USD (50% of wallet)
+2026-05-22 15:56:14,078  INFO      DeltaIndiaClient - Delta margin mode is account/product controlled; skipping CROSSED
+2026-05-22 15:56:14,432  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 15:56:14,464  INFO      GridEngine -   GRID ACTIVATED — SHORT
+2026-05-22 15:56:14,470  INFO      GridEngine -   Range    : 2,053.3 → 2,200.6
+2026-05-22 15:56:14,472  INFO      GridEngine -   Grids    : 12 | P/Grid: ~0.598%
+2026-05-22 15:56:14,473  INFO      GridEngine -   Leverage : 5x | Qty/Grid: 7
+2026-05-22 15:56:14,474  INFO      GridEngine -   Reason   : 4h EMA9/21 trend SHORT
+2026-05-22 15:56:14,475  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 15:56:15,836  INFO      GridEngine - 📍 Initial SELL position: 21 @ ~2,119.00
+2026-05-22 15:56:19,981  INFO      GridEngine - Grid placed: 12 orders (6 BUY / 6 SELL)
+2026-05-22 15:56:20,074  INFO      GridEngine - 🛑 SL placed @ 2,233.60
+2026-05-22 15:56:20,377  INFO      GridEngine - 🎯 TP placed @ 2,022.50
+2026-05-22 15:56:22,180  INFO      GridEngine - ↺ Fill #1 @ 2,053.30 → Counter [SELL] @ 2,065.55
+2026-05-22 15:56:22,549  INFO      GridEngine - ↺ Fill #3 @ 2,077.85 → Counter [SELL] @ 2,090.10
+2026-05-22 15:56:22,590  INFO      main - ACTIVE | ETHUSD price 2119.00
+2026-05-22 15:57:24,602  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:57:25,032  INFO      main - ACTIVE | ETHUSD price 2118.70
+2026-05-22 15:58:12,087  INFO      GridEngine - ↺ Fill #5 @ 2,102.40 → Counter [SELL] @ 2,114.65
+2026-05-22 15:58:12,538  INFO      GridEngine - ↺ Fill #7 @ 2,126.95 → Counter [BUY] @ 2,114.65
+2026-05-22 15:58:13,095  INFO      GridEngine - ↺ Fill #9 @ 2,151.50 → Counter [BUY] @ 2,139.20
+2026-05-22 15:58:13,551  INFO      GridEngine - ↺ Fill #11 @ 2,176.05 → Counter [BUY] @ 2,163.75
+2026-05-22 15:58:29,038  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:58:29,284  INFO      main - ACTIVE | ETHUSD price 2119.30
+2026-05-22 15:59:30,941  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 15:59:31,185  INFO      main - ACTIVE | ETHUSD price 2119.30
+2026-05-22 16:00:33,769  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:00:34,011  INFO      main - ACTIVE | ETHUSD price 2120.15
+2026-05-22 16:01:35,855  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:01:36,104  INFO      main - ACTIVE | ETHUSD price 2119.20
+2026-05-22 16:02:37,753  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:02:37,995  INFO      main - ACTIVE | ETHUSD price 2119.15
+2026-05-22 16:03:39,800  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:03:40,034  INFO      main - ACTIVE | ETHUSD price 2119.40
+2026-05-22 16:04:41,947  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:04:42,405  INFO      main - ACTIVE | ETHUSD price 2119.80
+2026-05-22 16:05:44,254  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:05:44,500  INFO      main - ACTIVE | ETHUSD price 2119.00
+2026-05-22 16:06:46,454  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:06:46,770  INFO      main - ACTIVE | ETHUSD price 2118.00
+2026-05-22 16:07:48,716  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:07:48,957  INFO      main - ACTIVE | ETHUSD price 2117.60
+2026-05-22 16:08:50,795  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:08:51,039  INFO      main - ACTIVE | ETHUSD price 2118.30
+2026-05-22 16:09:52,843  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:09:53,130  INFO      main - ACTIVE | ETHUSD price 2118.95
+2026-05-22 16:10:54,787  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:10:54,888  INFO      main - ACTIVE | ETHUSD price 2119.10
+2026-05-22 16:11:56,815  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:11:57,051  INFO      main - ACTIVE | ETHUSD price 2118.80
+2026-05-22 16:12:58,481  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:12:58,733  INFO      main - ACTIVE | ETHUSD price 2119.10
+2026-05-22 16:14:00,551  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:14:00,794  INFO      main - ACTIVE | ETHUSD price 2118.95
+2026-05-22 16:15:02,732  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:15:02,834  INFO      main - ACTIVE | ETHUSD price 2119.35
+2026-05-22 16:16:04,759  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:16:04,996  INFO      main - ACTIVE | ETHUSD price 2119.05
+2026-05-22 16:17:06,970  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:17:07,077  INFO      main - ACTIVE | ETHUSD price 2119.45
+2026-05-22 16:18:08,867  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:18:09,104  INFO      main - ACTIVE | ETHUSD price 2118.95
+2026-05-22 16:19:11,062  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:19:11,164  INFO      main - ACTIVE | ETHUSD price 2118.65
+2026-05-22 16:20:12,873  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:20:13,110  INFO      main - ACTIVE | ETHUSD price 2118.95
+2026-05-22 16:21:14,914  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:21:15,151  INFO      main - ACTIVE | ETHUSD price 2119.00
+2026-05-22 16:22:16,950  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:22:17,215  INFO      main - ACTIVE | ETHUSD price 2118.60
+2026-05-22 16:23:18,896  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:23:19,143  INFO      main - ACTIVE | ETHUSD price 2118.85
+2026-05-22 16:24:21,141  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:24:21,576  INFO      main - ACTIVE | ETHUSD price 2118.35
+2026-05-22 16:25:23,507  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:25:23,609  INFO      main - ACTIVE | ETHUSD price 2117.75
+2026-05-22 16:26:25,276  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:26:25,512  INFO      main - ACTIVE | ETHUSD price 2117.40
+2026-05-22 16:27:27,156  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:27:27,399  INFO      main - ACTIVE | ETHUSD price 2117.20
+2026-05-22 16:28:29,029  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:28:29,273  INFO      main - ACTIVE | ETHUSD price 2118.05
+2026-05-22 16:29:31,256  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:29:31,358  INFO      main - ACTIVE | ETHUSD price 2118.10
+2026-05-22 16:30:33,387  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:30:33,624  INFO      main - ACTIVE | ETHUSD price 2118.45
+2026-05-22 16:31:35,544  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:31:35,775  INFO      main - ACTIVE | ETHUSD price 2118.40
+2026-05-22 16:32:37,616  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:32:37,714  INFO      main - ACTIVE | ETHUSD price 2118.80
+2026-05-22 16:33:39,085  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:33:39,321  INFO      main - ACTIVE | ETHUSD price 2119.45
+2026-05-22 16:34:40,838  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:34:41,078  INFO      main - ACTIVE | ETHUSD price 2119.00
+2026-05-22 16:35:42,582  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:35:42,823  INFO      main - ACTIVE | ETHUSD price 2118.75
+2026-05-22 16:36:44,737  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:36:44,979  INFO      main - ACTIVE | ETHUSD price 2118.20
+2026-05-22 16:37:46,491  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:37:46,728  INFO      main - ACTIVE | ETHUSD price 2118.05
+2026-05-22 16:38:48,413  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:38:48,649  INFO      main - ACTIVE | ETHUSD price 2118.65
+2026-05-22 16:39:50,453  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:39:50,558  INFO      main - ACTIVE | ETHUSD price 2118.20
+2026-05-22 16:40:52,267  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:40:52,366  INFO      main - ACTIVE | ETHUSD price 2117.90
+2026-05-22 16:41:53,890  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:41:54,125  INFO      main - ACTIVE | ETHUSD price 2117.50
+2026-05-22 16:42:56,075  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:42:56,310  INFO      main - ACTIVE | ETHUSD price 2118.25
+2026-05-22 16:43:58,134  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:43:58,233  INFO      main - ACTIVE | ETHUSD price 2118.05
+2026-05-22 16:44:59,608  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:44:59,708  INFO      main - ACTIVE | ETHUSD price 2117.80
+2026-05-22 16:46:01,531  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:46:01,844  INFO      main - ACTIVE | ETHUSD price 2116.25
+2026-05-22 16:47:03,484  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:47:03,722  INFO      main - ACTIVE | ETHUSD price 2116.25
+2026-05-22 16:48:05,498  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:48:05,737  INFO      main - ACTIVE | ETHUSD price 2116.40
+2026-05-22 16:49:07,514  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:49:07,751  INFO      main - ACTIVE | ETHUSD price 2115.85
+2026-05-22 16:50:09,700  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:50:09,939  INFO      main - ACTIVE | ETHUSD price 2115.80
+2026-05-22 16:51:11,734  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:51:11,973  INFO      main - ACTIVE | ETHUSD price 2117.05
+2026-05-22 16:52:13,771  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:52:13,874  INFO      main - ACTIVE | ETHUSD price 2117.45
+2026-05-22 16:53:15,767  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:53:16,003  INFO      main - ACTIVE | ETHUSD price 2116.75
+2026-05-22 16:54:17,793  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:54:18,030  INFO      main - ACTIVE | ETHUSD price 2116.90
+2026-05-22 16:55:19,953  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:55:20,053  INFO      main - ACTIVE | ETHUSD price 2117.25
+2026-05-22 16:56:21,713  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:56:21,950  INFO      main - ACTIVE | ETHUSD price 2118.00
+2026-05-22 16:57:23,742  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:57:23,981  INFO      main - ACTIVE | ETHUSD price 2119.40
+2026-05-22 16:58:25,650  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:58:25,751  INFO      main - ACTIVE | ETHUSD price 2118.80
+2026-05-22 16:59:27,407  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 16:59:27,520  INFO      main - ACTIVE | ETHUSD price 2119.15
+2026-05-22 17:00:29,438  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:00:29,674  INFO      main - ACTIVE | ETHUSD price 2119.35
+2026-05-22 17:01:31,642  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:01:31,882  INFO      main - ACTIVE | ETHUSD price 2119.65
+2026-05-22 17:02:33,624  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:02:33,877  INFO      main - ACTIVE | ETHUSD price 2120.05
+2026-05-22 17:03:35,394  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:03:35,627  INFO      main - ACTIVE | ETHUSD price 2119.95
+2026-05-22 17:04:37,143  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:04:37,245  INFO      main - ACTIVE | ETHUSD price 2119.80
+2026-05-22 17:05:39,039  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:05:39,279  INFO      main - ACTIVE | ETHUSD price 2120.40
+2026-05-22 17:06:40,931  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:06:41,174  INFO      main - ACTIVE | ETHUSD price 2122.60
+2026-05-22 17:07:42,945  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:07:43,052  INFO      main - ACTIVE | ETHUSD price 2122.65
+2026-05-22 17:08:44,709  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:08:44,948  INFO      main - ACTIVE | ETHUSD price 2122.15
+2026-05-22 17:09:46,754  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:09:46,858  INFO      main - ACTIVE | ETHUSD price 2122.30
+2026-05-22 17:10:48,680  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:10:48,915  INFO      main - ACTIVE | ETHUSD price 2122.10
+2026-05-22 17:11:50,682  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:11:50,923  INFO      main - ACTIVE | ETHUSD price 2121.25
+2026-05-22 17:12:52,841  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:12:53,079  INFO      main - ACTIVE | ETHUSD price 2121.70
+2026-05-22 17:13:54,728  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:13:54,964  INFO      main - ACTIVE | ETHUSD price 2121.30
+2026-05-22 17:14:56,774  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:14:57,012  INFO      main - ACTIVE | ETHUSD price 2121.30
+2026-05-22 17:15:58,937  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:15:59,175  INFO      main - ACTIVE | ETHUSD price 2121.00
+2026-05-22 17:17:00,827  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:17:00,928  INFO      main - ACTIVE | ETHUSD price 2121.60
+2026-05-22 17:18:02,593  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:18:02,833  INFO      main - ACTIVE | ETHUSD price 2122.50
+2026-05-22 17:19:04,620  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:19:04,857  INFO      main - ACTIVE | ETHUSD price 2125.25
+2026-05-22 17:20:06,676  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:20:06,777  INFO      main - ACTIVE | ETHUSD price 2124.00
+2026-05-22 17:21:08,700  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:21:08,939  INFO      main - ACTIVE | ETHUSD price 2124.85
+2026-05-22 17:22:10,713  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:22:10,952  INFO      main - ACTIVE | ETHUSD price 2124.40
+2026-05-22 17:23:12,764  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:23:12,998  INFO      main - ACTIVE | ETHUSD price 2124.95
+2026-05-22 17:24:14,917  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:24:15,152  INFO      main - ACTIVE | ETHUSD price 2124.55
+2026-05-22 17:25:16,816  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:25:17,058  INFO      main - ACTIVE | ETHUSD price 2123.60
+2026-05-22 17:26:18,845  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:26:19,083  INFO      main - ACTIVE | ETHUSD price 2123.85
+2026-05-22 17:27:20,867  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:27:21,105  INFO      main - ACTIVE | ETHUSD price 2124.90
+2026-05-22 17:28:22,891  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:28:23,172  INFO      main - ACTIVE | ETHUSD price 2125.00
+2026-05-22 17:29:25,110  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:29:25,213  INFO      main - ACTIVE | ETHUSD price 2125.30
+2026-05-22 17:30:26,722  INFO      Signal - EMA trend -> SHORT | EMA9 2129.43 -> 2128.26 | EMA21 2134.40 -> 2133.42 | BB bandwidth 0.0185 | ATR range 2053.31 - 2200.59
+2026-05-22 17:30:26,957  INFO      main - ACTIVE | ETHUSD price 2126.15
+2026-05-22 17:31:28,792  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:31:28,812  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 17:31:28,825  INFO      GridEngine -   GRID STOPPED — New signal: NEUTRAL
+2026-05-22 17:31:28,835  INFO      GridEngine -   Total fills: 14
+2026-05-22 17:31:28,839  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 17:31:29,329  INFO      DeltaIndiaClient - Closing position: BUY 28 contracts ETHUSD
+2026-05-22 17:31:29,863  INFO      GridEngine - All positions closed
+2026-05-22 17:31:33,402  INFO      main - Wallet balance: 639.26 USD
+2026-05-22 17:31:33,404  INFO      main - Deployable grid capital: 319.63 USD (50% of wallet)
+2026-05-22 17:31:33,496  INFO      DeltaIndiaClient - Delta margin mode is account/product controlled; skipping CROSSED
+2026-05-22 17:31:33,817  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 17:31:33,822  INFO      GridEngine -   GRID ACTIVATED — NEUTRAL
+2026-05-22 17:31:33,824  INFO      GridEngine -   Range    : 2,056.1 → 2,186.5
+2026-05-22 17:31:33,826  INFO      GridEngine -   Grids    : 12 | P/Grid: ~0.529%
+2026-05-22 17:31:33,860  INFO      GridEngine -   Leverage : 5x | Qty/Grid: 5
+2026-05-22 17:31:33,862  INFO      GridEngine -   Reason   : Bollinger squeeze; neutral grid
+2026-05-22 17:31:33,862  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 17:31:39,615  INFO      GridEngine - Grid placed: 12 orders (6 BUY / 6 SELL)
+2026-05-22 17:31:39,710  INFO      GridEngine - 🛑 SL placed @ 2,025.25
+2026-05-22 17:31:40,055  INFO      GridEngine - 🎯 TP placed @ 2,219.25
+2026-05-22 17:31:41,706  INFO      GridEngine - ↺ Fill #3 @ 2,088.70 → Counter [SELL] @ 2,099.55
+2026-05-22 17:31:41,706  INFO      main - ACTIVE | ETHUSD price 2124.90
+2026-05-22 17:32:43,107  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:32:43,348  INFO      main - ACTIVE | ETHUSD price 2125.45
+2026-05-22 17:33:45,270  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:33:45,371  INFO      main - ACTIVE | ETHUSD price 2126.65
+2026-05-22 17:34:47,162  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:34:47,404  INFO      main - ACTIVE | ETHUSD price 2126.20
+2026-05-22 17:35:49,243  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:35:49,478  INFO      main - ACTIVE | ETHUSD price 2125.65
+2026-05-22 17:36:51,141  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:36:51,380  INFO      main - ACTIVE | ETHUSD price 2126.30
+2026-05-22 17:37:53,038  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:37:53,279  INFO      main - ACTIVE | ETHUSD price 2125.50
+2026-05-22 17:38:54,801  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:38:55,056  INFO      main - ACTIVE | ETHUSD price 2125.90
+2026-05-22 17:39:56,876  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:39:57,118  INFO      main - ACTIVE | ETHUSD price 2126.60
+2026-05-22 17:40:59,039  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:40:59,139  INFO      main - ACTIVE | ETHUSD price 2127.00
+2026-05-22 17:42:00,921  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:42:01,156  INFO      main - ACTIVE | ETHUSD price 2126.60
+2026-05-22 17:43:03,138  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:43:03,379  INFO      main - ACTIVE | ETHUSD price 2131.15
+2026-05-22 17:44:05,095  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:44:05,197  INFO      main - ACTIVE | ETHUSD price 2131.15
+2026-05-22 17:45:06,858  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:45:07,100  INFO      main - ACTIVE | ETHUSD price 2131.90
+2026-05-22 17:46:08,739  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:46:08,839  INFO      main - ACTIVE | ETHUSD price 2131.85
+2026-05-22 17:47:10,632  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:47:10,734  INFO      main - ACTIVE | ETHUSD price 2130.10
+2026-05-22 17:48:12,681  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:48:12,785  INFO      main - ACTIVE | ETHUSD price 2129.30
+2026-05-22 17:49:14,670  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:49:14,908  INFO      main - ACTIVE | ETHUSD price 2131.05
+2026-05-22 17:50:16,685  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:50:16,924  INFO      main - ACTIVE | ETHUSD price 2130.95
+2026-05-22 17:51:18,845  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:51:19,096  INFO      main - ACTIVE | ETHUSD price 2130.10
+2026-05-22 17:52:20,883  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:52:21,127  INFO      main - ACTIVE | ETHUSD price 2129.65
+2026-05-22 17:53:22,914  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:53:23,152  INFO      main - ACTIVE | ETHUSD price 2128.20
+2026-05-22 17:54:25,086  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:54:25,186  INFO      main - ACTIVE | ETHUSD price 2128.80
+2026-05-22 17:55:26,985  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:55:27,223  INFO      main - ACTIVE | ETHUSD price 2129.70
+2026-05-22 17:56:28,902  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:56:29,146  INFO      main - ACTIVE | ETHUSD price 2128.65
+2026-05-22 17:57:31,093  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:57:31,235  INFO      main - ACTIVE | ETHUSD price 2128.30
+2026-05-22 17:58:33,086  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:58:33,322  INFO      main - ACTIVE | ETHUSD price 2127.10
+2026-05-22 17:59:34,989  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 17:59:35,226  INFO      main - ACTIVE | ETHUSD price 2127.50
+2026-05-22 18:00:37,143  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:00:37,383  INFO      main - ACTIVE | ETHUSD price 2127.20
+2026-05-22 18:01:39,176  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:01:39,280  INFO      main - ACTIVE | ETHUSD price 2126.20
+2026-05-22 18:02:40,804  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:02:40,907  INFO      main - ACTIVE | ETHUSD price 2126.50
+2026-05-22 18:03:42,554  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:03:42,655  INFO      main - ACTIVE | ETHUSD price 2126.60
+2026-05-22 18:04:44,302  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:04:44,541  INFO      main - ACTIVE | ETHUSD price 2127.30
+2026-05-22 18:05:46,570  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:05:46,811  INFO      main - ACTIVE | ETHUSD price 2127.45
+2026-05-22 18:06:48,759  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:06:49,008  INFO      main - ACTIVE | ETHUSD price 2126.40
+2026-05-22 18:07:50,668  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:07:50,768  INFO      main - ACTIVE | ETHUSD price 2127.55
+2026-05-22 18:08:52,678  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:08:52,781  INFO      main - ACTIVE | ETHUSD price 2127.80
+2026-05-22 18:09:54,559  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:09:54,795  INFO      main - ACTIVE | ETHUSD price 2127.55
+2026-05-22 18:10:56,590  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:10:56,836  INFO      main - ACTIVE | ETHUSD price 2127.05
+2026-05-22 18:11:58,701  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:11:58,945  INFO      main - ACTIVE | ETHUSD price 2128.25
+2026-05-22 18:13:00,937  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:13:01,175  INFO      main - ACTIVE | ETHUSD price 2127.90
+2026-05-22 18:14:03,109  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:14:03,211  INFO      main - ACTIVE | ETHUSD price 2127.55
+2026-05-22 18:15:05,004  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:15:05,249  INFO      main - ACTIVE | ETHUSD price 2128.10
+2026-05-22 18:16:07,194  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:16:07,430  INFO      main - ACTIVE | ETHUSD price 2129.30
+2026-05-22 18:17:09,213  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:17:09,317  INFO      main - ACTIVE | ETHUSD price 2129.05
+2026-05-22 18:18:10,842  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:18:11,078  INFO      main - ACTIVE | ETHUSD price 2130.00
+2026-05-22 18:19:12,763  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:19:12,865  INFO      main - ACTIVE | ETHUSD price 2129.80
+2026-05-22 18:20:14,525  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:20:14,765  INFO      main - ACTIVE | ETHUSD price 2130.10
+2026-05-22 18:21:16,268  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:21:16,506  INFO      main - ACTIVE | ETHUSD price 2129.95
+2026-05-22 18:22:18,446  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:22:18,684  INFO      main - ACTIVE | ETHUSD price 2130.60
+2026-05-22 18:23:20,340  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:23:20,440  INFO      main - ACTIVE | ETHUSD price 2130.60
+2026-05-22 18:24:22,449  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:24:22,688  INFO      main - ACTIVE | ETHUSD price 2130.95
+2026-05-22 18:25:24,553  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:25:24,797  INFO      main - ACTIVE | ETHUSD price 2130.20
+2026-05-22 18:26:26,761  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:26:27,003  INFO      main - ACTIVE | ETHUSD price 2128.80
+2026-05-22 18:27:28,663  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:27:28,899  INFO      main - ACTIVE | ETHUSD price 2129.00
+2026-05-22 18:28:30,594  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:28:30,834  INFO      main - ACTIVE | ETHUSD price 2129.00
+2026-05-22 18:29:32,654  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:29:32,892  INFO      main - ACTIVE | ETHUSD price 2129.00
+2026-05-22 18:30:34,850  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:30:35,091  INFO      main - ACTIVE | ETHUSD price 2130.70
+2026-05-22 18:31:36,756  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:31:36,859  INFO      main - ACTIVE | ETHUSD price 2129.90
+2026-05-22 18:32:38,398  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:32:38,496  INFO      main - ACTIVE | ETHUSD price 2129.10
+2026-05-22 18:33:40,290  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:33:40,531  INFO      main - ACTIVE | ETHUSD price 2129.65
+2026-05-22 18:34:42,500  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:34:42,739  INFO      main - ACTIVE | ETHUSD price 2129.15
+2026-05-22 18:35:44,390  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:35:44,627  INFO      main - ACTIVE | ETHUSD price 2128.85
+2026-05-22 18:36:46,717  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:36:46,959  INFO      main - ACTIVE | ETHUSD price 2128.70
+2026-05-22 18:37:48,896  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:37:48,996  INFO      main - ACTIVE | ETHUSD price 2128.80
+2026-05-22 18:38:50,780  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:38:50,877  INFO      main - ACTIVE | ETHUSD price 2128.20
+2026-05-22 18:39:52,530  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:39:52,767  INFO      main - ACTIVE | ETHUSD price 2130.85
+2026-05-22 18:40:54,591  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:40:54,695  INFO      main - ACTIVE | ETHUSD price 2131.65
+2026-05-22 18:41:56,357  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:41:56,639  INFO      main - ACTIVE | ETHUSD price 2130.90
+2026-05-22 18:42:58,292  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:42:58,398  INFO      main - ACTIVE | ETHUSD price 2130.65
+2026-05-22 18:44:00,180  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:44:00,282  INFO      main - ACTIVE | ETHUSD price 2130.70
+2026-05-22 18:45:01,802  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:45:02,042  INFO      main - ACTIVE | ETHUSD price 2130.70
+2026-05-22 18:46:03,824  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:46:04,059  INFO      main - ACTIVE | ETHUSD price 2130.70
+2026-05-22 18:47:05,847  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:47:05,951  INFO      main - ACTIVE | ETHUSD price 2130.65
+2026-05-22 18:48:07,317  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:48:07,560  INFO      main - ACTIVE | ETHUSD price 2130.70
+2026-05-22 18:49:08,983  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:49:09,224  INFO      main - ACTIVE | ETHUSD price 2130.65
+2026-05-22 18:50:10,617  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:50:10,857  INFO      main - ACTIVE | ETHUSD price 2130.70
+2026-05-22 18:51:12,384  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:51:12,620  INFO      main - ACTIVE | ETHUSD price 2131.00
+2026-05-22 18:52:14,429  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:52:14,674  INFO      main - ACTIVE | ETHUSD price 2130.65
+2026-05-22 18:53:16,450  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:53:16,552  INFO      main - ACTIVE | ETHUSD price 2130.65
+2026-05-22 18:54:18,347  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:54:18,583  INFO      main - ACTIVE | ETHUSD price 2131.00
+2026-05-22 18:55:20,347  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:55:20,444  INFO      main - ACTIVE | ETHUSD price 2131.00
+2026-05-22 18:56:22,695  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:56:22,931  INFO      main - ACTIVE | ETHUSD price 2130.65
+2026-05-22 18:57:24,712  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:57:24,812  INFO      main - ACTIVE | ETHUSD price 2130.65
+2026-05-22 18:58:26,609  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:58:26,708  INFO      main - ACTIVE | ETHUSD price 2130.35
+2026-05-22 18:59:28,627  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 18:59:28,735  INFO      main - ACTIVE | ETHUSD price 2130.35
+2026-05-22 19:00:30,521  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:00:30,764  INFO      main - ACTIVE | ETHUSD price 2129.75
+2026-05-22 19:01:32,598  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:01:32,750  INFO      main - ACTIVE | ETHUSD price 2131.00
+2026-05-22 19:02:34,259  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:02:34,496  INFO      main - ACTIVE | ETHUSD price 2131.65
+2026-05-22 19:03:36,484  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:03:36,725  INFO      main - ACTIVE | ETHUSD price 2131.65
+2026-05-22 19:04:38,515  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:04:38,757  INFO      main - ACTIVE | ETHUSD price 2131.65
+2026-05-22 19:05:40,532  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:05:40,633  INFO      main - ACTIVE | ETHUSD price 2124.00
+2026-05-22 19:06:42,056  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:06:42,157  INFO      main - ACTIVE | ETHUSD price 2122.70
+2026-05-22 19:07:43,928  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:07:44,028  INFO      main - ACTIVE | ETHUSD price 2124.40
+2026-05-22 19:08:45,542  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:08:45,779  INFO      main - ACTIVE | ETHUSD price 2125.30
+2026-05-22 19:09:47,130  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:09:47,367  INFO      main - ACTIVE | ETHUSD price 2125.65
+2026-05-22 19:10:49,344  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:10:49,585  INFO      main - ACTIVE | ETHUSD price 2126.50
+2026-05-22 19:11:51,245  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:11:51,483  INFO      main - ACTIVE | ETHUSD price 2126.10
+2026-05-22 19:12:53,269  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:12:53,512  INFO      main - ACTIVE | ETHUSD price 2123.55
+2026-05-22 19:13:55,152  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:13:55,392  INFO      main - ACTIVE | ETHUSD price 2123.60
+2026-05-22 19:14:57,185  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:14:57,285  INFO      main - ACTIVE | ETHUSD price 2123.50
+2026-05-22 19:15:59,049  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:15:59,148  INFO      main - ACTIVE | ETHUSD price 2125.25
+2026-05-22 19:17:00,675  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:17:00,915  INFO      main - ACTIVE | ETHUSD price 2126.15
+2026-05-22 19:18:02,895  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:18:02,997  INFO      main - ACTIVE | ETHUSD price 2125.35
+2026-05-22 19:19:04,774  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:19:05,014  INFO      main - ACTIVE | ETHUSD price 2122.00
+2026-05-22 19:20:06,944  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:20:07,050  INFO      main - ACTIVE | ETHUSD price 2123.95
+2026-05-22 19:21:08,978  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:21:09,079  INFO      main - ACTIVE | ETHUSD price 2122.45
+2026-05-22 19:22:10,867  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:22:10,971  INFO      main - ACTIVE | ETHUSD price 2122.80
+2026-05-22 19:23:12,765  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:23:13,002  INFO      main - ACTIVE | ETHUSD price 2123.45
+2026-05-22 19:24:14,928  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:24:15,170  INFO      main - ACTIVE | ETHUSD price 2125.15
+2026-05-22 19:25:16,984  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:25:17,226  INFO      main - ACTIVE | ETHUSD price 2125.85
+2026-05-22 19:26:18,637  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:26:18,877  INFO      main - ACTIVE | ETHUSD price 2124.70
+2026-05-22 19:27:05,682  INFO      GridEngine - ↺ Fill #7 @ 2,121.30 → Counter [SELL] @ 2,132.15
+2026-05-22 19:27:05,952  INFO      GridEngine - ↺ Fill #9 @ 2,153.90 → Counter [BUY] @ 2,143.00
+2026-05-22 19:27:06,622  INFO      GridEngine - ↺ Fill #12 @ 2,186.50 → Counter [BUY] @ 2,175.60
+2026-05-22 19:27:22,112  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:27:22,355  INFO      main - ACTIVE | ETHUSD price 2124.35
+2026-05-22 19:28:24,215  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:28:24,454  INFO      main - ACTIVE | ETHUSD price 2123.85
+2026-05-22 19:29:26,296  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:29:26,398  INFO      main - ACTIVE | ETHUSD price 2125.25
+2026-05-22 19:30:28,369  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:30:28,483  INFO      main - ACTIVE | ETHUSD price 2123.40
+2026-05-22 19:31:43,072  INFO      main - ============================================================
+2026-05-22 19:31:43,073  INFO      main - ETH Futures Grid bot starting
+2026-05-22 19:31:43,073  INFO      main - ============================================================
+2026-05-22 19:31:43,888  INFO      main - Wallet balance: 993.56 USD
+2026-05-22 19:31:43,892  INFO      main - Deployable grid capital: 496.78 USD (50% of wallet)
+2026-05-22 19:31:43,893  INFO      main - ETH Futures Grid bot running | ETHUSD | EMA9/21 4h
+2026-05-22 19:31:45,568  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:31:45,818  INFO      main - Wallet balance: 993.56 USD
+2026-05-22 19:31:45,818  INFO      main - Deployable grid capital: 496.78 USD (50% of wallet)
+2026-05-22 19:31:46,084  INFO      DeltaIndiaClient - Delta margin mode is account/product controlled; skipping CROSSED
+2026-05-22 19:31:46,193  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 19:31:46,196  INFO      GridEngine -   GRID ACTIVATED — NEUTRAL
+2026-05-22 19:31:46,197  INFO      GridEngine -   Range    : 2,056.1 → 2,186.5
+2026-05-22 19:31:46,198  INFO      GridEngine -   Grids    : 12 | P/Grid: ~0.529%
+2026-05-22 19:31:46,198  INFO      GridEngine -   Leverage : 5x | Qty/Grid: 9
+2026-05-22 19:31:46,198  INFO      GridEngine -   Reason   : Bollinger squeeze; neutral grid
+2026-05-22 19:31:46,199  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 19:31:55,779  INFO      GridEngine - Grid placed: 12 orders (6 BUY / 6 SELL)
+2026-05-22 19:31:56,088  INFO      GridEngine - 🛑 SL placed @ 2,025.25
+2026-05-22 19:31:56,195  INFO      GridEngine - 🎯 TP placed @ 2,219.25
+2026-05-22 19:31:58,125  INFO      GridEngine - ↺ Fill #3 @ 2,088.70 → Counter [SELL] @ 2,099.55
+2026-05-22 19:31:58,149  INFO      main - ACTIVE | ETHUSD price 2123.45
+2026-05-22 19:32:44,970  INFO      GridEngine - ↺ Fill #5 @ 2,121.30 → Counter [SELL] @ 2,132.15
+2026-05-22 19:33:00,318  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:33:00,559  INFO      main - ACTIVE | ETHUSD price 2121.95
+2026-05-22 19:34:02,373  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:34:02,613  INFO      main - ACTIVE | ETHUSD price 2122.10
+2026-05-22 19:35:04,559  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:35:04,798  INFO      main - ACTIVE | ETHUSD price 2120.00
+2026-05-22 19:36:06,575  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:36:06,677  INFO      main - ACTIVE | ETHUSD price 2120.05
+2026-05-22 19:37:08,632  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:37:08,871  INFO      main - ACTIVE | ETHUSD price 2119.00
+2026-05-22 19:38:10,789  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:38:10,890  INFO      main - ACTIVE | ETHUSD price 2118.15
+2026-05-22 19:39:12,712  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:39:12,945  INFO      main - ACTIVE | ETHUSD price 2119.25
+2026-05-22 19:40:14,745  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:40:14,982  INFO      main - ACTIVE | ETHUSD price 2120.10
+2026-05-22 19:41:16,790  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:41:17,032  INFO      main - ACTIVE | ETHUSD price 2118.60
+2026-05-22 19:42:18,726  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:42:18,969  INFO      main - ACTIVE | ETHUSD price 2121.15
+2026-05-22 19:43:20,636  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:43:20,878  INFO      main - ACTIVE | ETHUSD price 2120.45
+2026-05-22 19:44:22,663  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:44:22,905  INFO      main - ACTIVE | ETHUSD price 2119.60
+2026-05-22 19:45:24,833  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:45:25,071  INFO      main - ACTIVE | ETHUSD price 2120.30
+2026-05-22 19:46:27,037  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:46:27,274  INFO      main - ACTIVE | ETHUSD price 2119.00
+2026-05-22 19:47:29,062  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:47:29,298  INFO      main - ACTIVE | ETHUSD price 2119.50
+2026-05-22 19:48:31,265  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:48:31,503  INFO      main - ACTIVE | ETHUSD price 2116.00
+2026-05-22 19:49:33,433  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:49:33,672  INFO      main - ACTIVE | ETHUSD price 2116.40
+2026-05-22 19:50:35,593  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:50:35,831  INFO      main - ACTIVE | ETHUSD price 2115.25
+2026-05-22 19:51:37,475  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:51:37,713  INFO      main - ACTIVE | ETHUSD price 2112.65
+2026-05-22 19:52:39,627  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:52:39,726  INFO      main - ACTIVE | ETHUSD price 2113.00
+2026-05-22 19:53:41,641  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:53:41,880  INFO      main - ACTIVE | ETHUSD price 2112.00
+2026-05-22 19:54:43,826  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:54:44,064  INFO      main - ACTIVE | ETHUSD price 2110.30
+2026-05-22 19:55:45,878  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:55:46,112  INFO      main - ACTIVE | ETHUSD price 2111.60
+2026-05-22 19:56:47,920  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:56:48,157  INFO      main - ACTIVE | ETHUSD price 2112.60
+2026-05-22 19:57:49,950  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:57:50,186  INFO      main - ACTIVE | ETHUSD price 2113.85
+2026-05-22 19:58:52,101  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:58:52,345  INFO      main - ACTIVE | ETHUSD price 2113.05
+2026-05-22 19:59:54,263  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 19:59:54,504  INFO      main - ACTIVE | ETHUSD price 2112.80
+2026-05-22 20:00:56,454  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:00:56,690  INFO      main - ACTIVE | ETHUSD price 2113.35
+2026-05-22 20:01:58,469  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:01:58,570  INFO      main - ACTIVE | ETHUSD price 2114.45
+2026-05-22 20:03:00,367  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:03:00,606  INFO      main - ACTIVE | ETHUSD price 2113.10
+2026-05-22 20:04:02,545  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:04:02,783  INFO      main - ACTIVE | ETHUSD price 2113.70
+2026-05-22 20:05:04,691  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:05:04,934  INFO      main - ACTIVE | ETHUSD price 2114.65
+2026-05-22 20:06:06,966  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:06:07,408  INFO      main - ACTIVE | ETHUSD price 2116.15
+2026-05-22 20:07:09,447  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:07:09,686  INFO      main - ACTIVE | ETHUSD price 2115.60
+2026-05-22 20:08:11,323  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:08:11,567  INFO      main - ACTIVE | ETHUSD price 2114.40
+2026-05-22 20:09:13,497  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:09:13,740  INFO      main - ACTIVE | ETHUSD price 2114.55
+2026-05-22 20:10:15,798  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:10:16,034  INFO      main - ACTIVE | ETHUSD price 2115.85
+2026-05-22 20:11:17,952  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:11:18,058  INFO      main - ACTIVE | ETHUSD price 2114.65
+2026-05-22 20:12:19,986  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:12:20,229  INFO      main - ACTIVE | ETHUSD price 2114.10
+2026-05-22 20:13:22,030  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:13:22,137  INFO      main - ACTIVE | ETHUSD price 2114.75
+2026-05-22 20:14:23,925  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:14:24,028  INFO      main - ACTIVE | ETHUSD price 2115.00
+2026-05-22 20:15:25,952  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:15:26,191  INFO      main - ACTIVE | ETHUSD price 2115.15
+2026-05-22 20:16:28,123  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:16:28,360  INFO      main - ACTIVE | ETHUSD price 2114.60
+2026-05-22 20:17:30,280  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:17:30,519  INFO      main - ACTIVE | ETHUSD price 2113.40
+2026-05-22 20:18:32,462  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:18:32,701  INFO      main - ACTIVE | ETHUSD price 2114.70
+2026-05-22 20:19:34,625  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:19:34,869  INFO      main - ACTIVE | ETHUSD price 2115.55
+2026-05-22 20:20:36,782  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:20:36,884  INFO      main - ACTIVE | ETHUSD price 2113.25
+2026-05-22 20:21:38,794  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:21:39,039  INFO      main - ACTIVE | ETHUSD price 2113.05
+2026-05-22 20:22:40,988  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:22:41,093  INFO      main - ACTIVE | ETHUSD price 2112.30
+2026-05-22 20:23:42,867  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:23:42,968  INFO      main - ACTIVE | ETHUSD price 2113.45
+2026-05-22 20:24:44,751  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:24:44,852  INFO      main - ACTIVE | ETHUSD price 2113.30
+2026-05-22 20:25:46,830  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:25:47,066  INFO      main - ACTIVE | ETHUSD price 2113.45
+2026-05-22 20:26:48,620  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:26:48,723  INFO      main - ACTIVE | ETHUSD price 2114.50
+2026-05-22 20:27:50,389  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:27:50,628  INFO      main - ACTIVE | ETHUSD price 2113.05
+2026-05-22 20:28:52,546  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:28:52,784  INFO      main - ACTIVE | ETHUSD price 2112.20
+2026-05-22 20:29:54,558  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:29:54,793  INFO      main - ACTIVE | ETHUSD price 2112.20
+2026-05-22 20:30:56,655  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:30:56,896  INFO      main - ACTIVE | ETHUSD price 2111.85
+2026-05-22 20:31:58,836  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:31:59,079  INFO      main - ACTIVE | ETHUSD price 2112.65
+2026-05-22 20:33:01,001  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:33:01,242  INFO      main - ACTIVE | ETHUSD price 2115.25
+2026-05-22 20:34:03,191  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:34:03,429  INFO      main - ACTIVE | ETHUSD price 2115.80
+2026-05-22 20:35:05,341  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:35:05,445  INFO      main - ACTIVE | ETHUSD price 2115.60
+2026-05-22 20:36:07,257  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:36:07,499  INFO      main - ACTIVE | ETHUSD price 2118.45
+2026-05-22 20:37:09,416  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:37:09,655  INFO      main - ACTIVE | ETHUSD price 2116.25
+2026-05-22 20:38:11,549  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:38:11,652  INFO      main - ACTIVE | ETHUSD price 2117.65
+2026-05-22 20:39:13,436  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:39:13,683  INFO      main - ACTIVE | ETHUSD price 2115.75
+2026-05-22 20:40:15,687  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:40:15,787  INFO      main - ACTIVE | ETHUSD price 2116.55
+2026-05-22 20:41:17,598  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:41:17,848  INFO      main - ACTIVE | ETHUSD price 2115.95
+2026-05-22 20:42:19,645  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:42:19,884  INFO      main - ACTIVE | ETHUSD price 2115.00
+2026-05-22 20:43:21,667  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:43:21,903  INFO      main - ACTIVE | ETHUSD price 2113.80
+2026-05-22 20:44:23,813  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:44:24,050  INFO      main - ACTIVE | ETHUSD price 2113.20
+2026-05-22 20:45:25,874  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:45:26,112  INFO      main - ACTIVE | ETHUSD price 2113.80
+2026-05-22 20:46:27,908  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:46:28,144  INFO      main - ACTIVE | ETHUSD price 2115.35
+2026-05-22 20:47:30,059  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:47:30,296  INFO      main - ACTIVE | ETHUSD price 2115.50
+2026-05-22 20:48:32,129  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:48:32,369  INFO      main - ACTIVE | ETHUSD price 2115.60
+2026-05-22 20:49:34,148  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:49:34,252  INFO      main - ACTIVE | ETHUSD price 2115.95
+2026-05-22 20:50:36,186  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:50:36,292  INFO      main - ACTIVE | ETHUSD price 2115.95
+2026-05-22 20:51:38,084  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:51:38,322  INFO      main - ACTIVE | ETHUSD price 2115.70
+2026-05-22 20:52:40,257  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:52:40,496  INFO      main - ACTIVE | ETHUSD price 2115.15
+2026-05-22 20:53:42,305  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:53:42,544  INFO      main - ACTIVE | ETHUSD price 2111.75
+2026-05-22 20:54:44,539  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:54:44,773  INFO      main - ACTIVE | ETHUSD price 2111.55
+2026-05-22 20:55:46,568  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:55:46,809  INFO      main - ACTIVE | ETHUSD price 2110.35
+2026-05-22 20:56:48,789  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:56:49,024  INFO      main - ACTIVE | ETHUSD price 2112.70
+2026-05-22 20:57:50,932  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:57:51,172  INFO      main - ACTIVE | ETHUSD price 2114.60
+2026-05-22 20:58:53,078  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:58:53,316  INFO      main - ACTIVE | ETHUSD price 2114.90
+2026-05-22 20:59:55,095  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 20:59:55,338  INFO      main - ACTIVE | ETHUSD price 2116.15
+2026-05-22 21:00:57,134  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:00:57,369  INFO      main - ACTIVE | ETHUSD price 2118.25
+2026-05-22 21:01:59,001  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:01:59,234  INFO      main - ACTIVE | ETHUSD price 2119.55
+2026-05-22 21:03:01,147  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:03:01,387  INFO      main - ACTIVE | ETHUSD price 2119.55
+2026-05-22 21:04:03,321  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:04:03,557  INFO      main - ACTIVE | ETHUSD price 2118.95
+2026-05-22 21:05:05,242  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:05:05,487  INFO      main - ACTIVE | ETHUSD price 2118.90
+2026-05-22 21:06:07,042  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:06:07,144  INFO      main - ACTIVE | ETHUSD price 2118.85
+2026-05-22 21:07:09,053  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:07:09,158  INFO      main - ACTIVE | ETHUSD price 2119.60
+2026-05-22 21:08:10,839  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:08:11,074  INFO      main - ACTIVE | ETHUSD price 2117.25
+2026-05-22 21:09:12,870  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:09:13,111  INFO      main - ACTIVE | ETHUSD price 2115.75
+2026-05-22 21:10:15,001  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:10:15,238  INFO      main - ACTIVE | ETHUSD price 2114.35
+2026-05-22 21:11:17,162  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:11:17,398  INFO      main - ACTIVE | ETHUSD price 2113.20
+2026-05-22 21:12:19,365  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:12:19,599  INFO      main - ACTIVE | ETHUSD price 2113.05
+2026-05-22 21:13:21,506  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:13:21,746  INFO      main - ACTIVE | ETHUSD price 2113.60
+2026-05-22 21:14:23,659  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:14:23,895  INFO      main - ACTIVE | ETHUSD price 2113.55
+2026-05-22 21:15:25,576  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:15:25,813  INFO      main - ACTIVE | ETHUSD price 2113.80
+2026-05-22 21:16:27,594  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:16:27,699  INFO      main - ACTIVE | ETHUSD price 2114.05
+2026-05-22 21:17:29,634  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:17:29,871  INFO      main - ACTIVE | ETHUSD price 2114.65
+2026-05-22 21:18:31,662  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:18:31,893  INFO      main - ACTIVE | ETHUSD price 2113.40
+2026-05-22 21:19:33,659  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:19:33,901  INFO      main - ACTIVE | ETHUSD price 2113.30
+2026-05-22 21:20:35,449  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:20:35,682  INFO      main - ACTIVE | ETHUSD price 2113.20
+2026-05-22 21:21:37,456  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:21:37,691  INFO      main - ACTIVE | ETHUSD price 2114.50
+2026-05-22 21:22:39,198  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:22:39,437  INFO      main - ACTIVE | ETHUSD price 2115.45
+2026-05-22 21:23:41,405  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:23:41,641  INFO      main - ACTIVE | ETHUSD price 2115.45
+2026-05-22 21:24:43,436  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:24:43,538  INFO      main - ACTIVE | ETHUSD price 2115.85
+2026-05-22 21:25:45,312  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:25:45,545  INFO      main - ACTIVE | ETHUSD price 2115.90
+2026-05-22 21:26:47,446  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:26:47,684  INFO      main - ACTIVE | ETHUSD price 2116.50
+2026-05-22 21:27:49,468  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:27:49,571  INFO      main - ACTIVE | ETHUSD price 2116.25
+2026-05-22 21:28:51,342  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:28:51,587  INFO      main - ACTIVE | ETHUSD price 2116.05
+2026-05-22 21:29:53,438  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:29:53,677  INFO      main - ACTIVE | ETHUSD price 2115.50
+2026-05-22 21:30:55,460  INFO      Signal - Bollinger squeeze -> NEUTRAL | bandwidth 0.0147 <= 0.0150 | ATR range 2056.09 - 2186.51
+2026-05-22 21:30:55,560  INFO      main - ACTIVE | ETHUSD price 2115.35
+2026-05-22 21:31:57,331  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:31:57,346  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 21:31:57,349  INFO      GridEngine -   GRID STOPPED — New signal: SHORT
+2026-05-22 21:31:57,351  INFO      GridEngine -   Total fills: 6
+2026-05-22 21:31:57,352  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 21:31:57,719  INFO      DeltaIndiaClient - Closing position: SELL 9 contracts ETHUSD
+2026-05-22 21:31:58,096  INFO      GridEngine - All positions closed
+2026-05-22 21:32:02,632  INFO      main - Wallet balance: 578.66 USD
+2026-05-22 21:32:02,632  INFO      main - Deployable grid capital: 289.33 USD (50% of wallet)
+2026-05-22 21:32:02,727  INFO      DeltaIndiaClient - Delta margin mode is account/product controlled; skipping CROSSED
+2026-05-22 21:32:03,041  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 21:32:03,043  INFO      GridEngine -   GRID ACTIVATED — SHORT
+2026-05-22 21:32:03,047  INFO      GridEngine -   Range    : 2,046.8 → 2,189.8
+2026-05-22 21:32:03,048  INFO      GridEngine -   Grids    : 12 | P/Grid: ~0.582%
+2026-05-22 21:32:03,049  INFO      GridEngine -   Leverage : 5x | Qty/Grid: 4
+2026-05-22 21:32:03,050  INFO      GridEngine -   Reason   : 4h EMA9/21 trend SHORT
+2026-05-22 21:32:03,052  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 21:32:04,578  INFO      GridEngine - 📍 Initial SELL position: 12 @ ~2,116.85
+2026-05-22 21:32:08,132  INFO      GridEngine - Grid placed: 12 orders (6 BUY / 6 SELL)
+2026-05-22 21:32:08,229  INFO      GridEngine - 🛑 SL placed @ 2,222.60
+2026-05-22 21:32:08,541  INFO      GridEngine - 🎯 TP placed @ 2,016.05
+2026-05-22 21:32:10,301  INFO      GridEngine - ↺ Fill #1 @ 2,046.80 → Counter [SELL] @ 2,058.70
+2026-05-22 21:32:10,920  INFO      GridEngine - ↺ Fill #4 @ 2,082.55 → Counter [SELL] @ 2,094.45
+2026-05-22 21:32:10,921  INFO      main - ACTIVE | ETHUSD price 2116.85
+2026-05-22 21:32:41,999  INFO      GridEngine - ↺ Fill #6 @ 2,118.30 → Counter [BUY] @ 2,106.35
+2026-05-22 21:32:57,470  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:32:57,569  INFO      main - ACTIVE | ETHUSD price 2118.45
+2026-05-22 21:33:59,519  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:33:59,617  INFO      main - ACTIVE | ETHUSD price 2117.75
+2026-05-22 21:35:01,435  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:35:01,810  INFO      main - ACTIVE | ETHUSD price 2117.10
+2026-05-22 21:36:03,547  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:36:03,867  INFO      main - ACTIVE | ETHUSD price 2114.30
+2026-05-22 21:37:05,686  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:37:05,852  INFO      main - ACTIVE | ETHUSD price 2114.95
+2026-05-22 21:38:07,535  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:38:07,774  INFO      main - ACTIVE | ETHUSD price 2114.95
+2026-05-22 21:39:09,210  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:39:09,452  INFO      main - ACTIVE | ETHUSD price 2114.70
+2026-05-22 21:40:10,950  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:40:11,053  INFO      main - ACTIVE | ETHUSD price 2115.25
+2026-05-22 21:41:12,582  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:41:12,826  INFO      main - ACTIVE | ETHUSD price 2114.60
+2026-05-22 21:42:14,600  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:42:14,845  INFO      main - ACTIVE | ETHUSD price 2115.20
+2026-05-22 21:43:16,637  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:43:16,875  INFO      main - ACTIVE | ETHUSD price 2116.30
+2026-05-22 21:44:18,667  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:44:18,908  INFO      main - ACTIVE | ETHUSD price 2116.25
+2026-05-22 21:45:20,696  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:45:20,933  INFO      main - ACTIVE | ETHUSD price 2116.50
+2026-05-22 21:46:22,703  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:46:22,955  INFO      main - ACTIVE | ETHUSD price 2113.90
+2026-05-22 21:47:24,742  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 21:47:25,125  INFO      main - ACTIVE | ETHUSD price 2115.50
+2026-05-22 22:00:46,113  INFO      main - ============================================================
+2026-05-22 22:00:46,113  INFO      main - ETH Futures Grid bot starting
+2026-05-22 22:00:46,114  INFO      main - ============================================================
+2026-05-22 22:00:46,927  INFO      main - Wallet balance: 852.24 USD
+2026-05-22 22:00:46,928  INFO      main - Deployable grid capital: 426.12 USD (50% of wallet)
+2026-05-22 22:00:46,928  INFO      main - ETH Futures Grid bot running | ETHUSD | EMA9/21 4h
+2026-05-22 22:00:48,310  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 22:00:48,561  INFO      main - Wallet balance: 852.24 USD
+2026-05-22 22:00:48,561  INFO      main - Deployable grid capital: 426.12 USD (50% of wallet)
+2026-05-22 22:00:48,816  INFO      DeltaIndiaClient - Delta margin mode is account/product controlled; skipping CROSSED
+2026-05-22 22:00:49,057  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 22:00:49,059  INFO      GridEngine -   GRID ACTIVATED — SHORT
+2026-05-22 22:00:49,061  INFO      GridEngine -   Range    : 2,046.8 → 2,189.8
+2026-05-22 22:00:49,061  INFO      GridEngine -   Grids    : 12 | P/Grid: ~0.582%
+2026-05-22 22:00:49,061  INFO      GridEngine -   Leverage : 5x | Qty/Grid: 6
+2026-05-22 22:00:49,062  INFO      GridEngine -   Reason   : 4h EMA9/21 trend SHORT
+2026-05-22 22:00:49,062  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 22:00:50,551  INFO      GridEngine - 📍 Initial SELL position: 18 @ ~2,118.00
+2026-05-22 22:00:55,063  INFO      GridEngine - Grid placed: 12 orders (6 BUY / 6 SELL)
+2026-05-22 22:00:55,368  INFO      GridEngine - 🛑 SL placed @ 2,222.60
+2026-05-22 22:00:55,468  INFO      GridEngine - 🎯 TP placed @ 2,016.05
+2026-05-22 22:00:57,284  INFO      GridEngine - ↺ Fill #1 @ 2,046.80 → Counter [SELL] @ 2,058.70
+2026-05-22 22:00:57,896  INFO      GridEngine - ↺ Fill #4 @ 2,082.55 → Counter [SELL] @ 2,094.45
+2026-05-22 22:00:57,897  INFO      main - ACTIVE | ETHUSD price 2118.00
+2026-05-22 22:01:59,887  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 22:02:00,385  INFO      GridEngine - ↺ Fill #6 @ 2,118.30 → Counter [BUY] @ 2,106.35
+2026-05-22 22:02:00,386  INFO      main - ACTIVE | ETHUSD price 2118.25
+2026-05-22 22:03:02,178  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 22:03:02,414  INFO      main - ACTIVE | ETHUSD price 2117.70
+2026-05-22 22:04:04,320  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 22:04:04,420  INFO      main - ACTIVE | ETHUSD price 2117.15
+2026-05-22 22:05:06,211  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 22:05:06,313  INFO      main - ACTIVE | ETHUSD price 2116.45
+2026-05-22 22:06:07,740  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 22:06:07,982  INFO      main - ACTIVE | ETHUSD price 2115.75
+2026-05-22 22:07:09,909  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 22:07:10,148  INFO      main - ACTIVE | ETHUSD price 2116.35
+2026-05-22 22:08:11,298  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 22:08:11,595  INFO      main - ACTIVE | ETHUSD price 2117.45
+2026-05-22 22:09:13,260  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 22:09:13,865  INFO      main - ACTIVE | ETHUSD price 2116.55
+2026-05-22 22:10:15,830  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 22:10:15,929  INFO      main - ACTIVE | ETHUSD price 2116.05
+2026-05-22 23:00:29,631  INFO      main - ============================================================
+2026-05-22 23:00:29,635  INFO      main - ETH Futures Grid bot starting
+2026-05-22 23:00:29,636  INFO      main - ============================================================
+2026-05-22 23:00:30,650  INFO      main - Wallet balance: 991.65 USD
+2026-05-22 23:00:30,652  INFO      main - Deployable grid capital: 495.82 USD (50% of wallet)
+2026-05-22 23:00:30,653  INFO      main - ETH Futures Grid bot running | ETHUSD | EMA9/21 4h
+2026-05-22 23:00:32,246  INFO      Signal - EMA trend -> SHORT | EMA9 2127.78 -> 2125.29 | EMA21 2132.73 -> 2131.15 | BB bandwidth 0.0162 | ATR range 2046.84 - 2189.76
+2026-05-22 23:00:32,499  INFO      main - Wallet balance: 991.65 USD
+2026-05-22 23:00:32,500  INFO      main - Deployable grid capital: 495.82 USD (50% of wallet)
+2026-05-22 23:00:32,725  INFO      DeltaIndiaClient - Delta margin mode is account/product controlled; skipping CROSSED
+2026-05-22 23:00:32,994  INFO      GridEngine - 
+════════════════════════════════════════════════════════
+2026-05-22 23:00:32,997  INFO      GridEngine -   GRID ACTIVATED — SHORT
+2026-05-22 23:00:32,998  INFO      GridEngine -   Range    : 2,046.8 → 2,189.8
+2026-05-22 23:00:32,999  INFO      GridEngine -   Grids    : 12 | P/Grid: ~0.582%
+2026-05-22 23:00:32,999  INFO      GridEngine -   Leverage : 5x | Qty/Grid: 7
+2026-05-22 23:00:32,999  INFO      GridEngine -   Reason   : 4h EMA9/21 trend SHORT
+2026-05-22 23:00:33,000  INFO      GridEngine - ════════════════════════════════════════════════════════
+
+2026-05-22 23:00:34,939  INFO      GridEngine - 📍 Initial SELL position: 21 @ ~2,123.80
+2026-05-22 23:00:38,981  INFO      GridEngine - Grid placed: 12 orders (6 BUY / 6 SELL)
+2026-05-22 23:00:39,074  INFO      GridEngine - 🛑 SL placed @ 2,222.60
+2026-05-22 23:00:39,385  INFO      GridEngine - 🎯 TP placed @ 2,016.05
+2026-05-22 23:00:41,301  INFO      GridEngine - ↺ Fill #3 @ 2,082.55 → Counter [SELL] @ 2,094.45
+2026-05-22 23:00:41,302  INFO      main - ACTIVE | ETHUSD price 2123.80

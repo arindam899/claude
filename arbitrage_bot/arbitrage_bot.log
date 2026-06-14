@@ -1,0 +1,228 @@
+19:00:50  ERROR     main  BINANCE_API_KEY and BINANCE_API_SECRET must be set in .env  (copy .env.example → .env and fill in your keys).
+19:00:50  ERROR     main  BINANCE_API_KEY and BINANCE_API_SECRET must be set in .env  (copy .env.example → .env and fill in your keys).
+19:06:38  ERROR     main  BINANCE_API_KEY and BINANCE_API_SECRET must be set in .env  (copy .env.example → .env and fill in your keys).
+19:07:00  INFO      main  ============================================================
+19:07:00  INFO      main     Funding Rate Arbitrage Bot
+19:07:00  INFO      main     Mode      : LIVE
+19:07:00  INFO      main     Spot mode : margin
+19:07:00  INFO      main     Max coins : 10
+19:07:00  INFO      main     Leverage  : 1×
+19:07:00  INFO      main     Entry     : 5 min before funding
+19:07:00  INFO      main     Exit at   : spread ≤ 0.1%
+19:07:00  INFO      main  ============================================================
+19:07:01  INFO      bot  Restored 0 open position(s) from DB.
+19:07:01  INFO      main  Bot thread started.
+19:07:01  INFO      main  Dashboard → http://localhost:8050
+19:07:01  INFO      dash.dash  Dash is running on http://0.0.0.0:8050/
+
+19:07:01  INFO      apscheduler.scheduler  Scheduler started
+19:07:01  INFO      bot  ArbitrageBot started.
+19:07:01  INFO      bot  Main loop running.
+19:07:01  INFO      werkzeug  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.1.2:8050
+19:07:01  INFO      werkzeug  [33mPress CTRL+C to quit[0m
+19:07:02  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:07:02  ERROR     api_client  GET /fapi/v2/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+19:07:02  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:07:02  INFO      bot  ⏰ Scheduled entry for ONGUSDT at 15:55:00 UTC (funding rate -0.9909%, spread -1.5733%)
+19:07:02  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:07:02  INFO      bot  ⏰ Scheduled entry for ENJUSDT at 13:55:00 UTC (funding rate -0.6116%, spread -2.8686%)
+19:07:02  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:07:02  INFO      bot  ⏰ Scheduled entry for BLURUSDT at 15:55:00 UTC (funding rate -0.6069%, spread -0.8598%)
+19:07:02  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:07:02  INFO      bot  ⏰ Scheduled entry for OXTUSDT at 15:55:00 UTC (funding rate -0.5881%, spread -0.3306%)
+19:07:02  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:07:02  INFO      bot  ⏰ Scheduled entry for TNSRUSDT at 15:55:00 UTC (funding rate -0.3492%, spread -1.3320%)
+19:07:02  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:07:02  INFO      bot  ⏰ Scheduled entry for RAREUSDT at 15:55:00 UTC (funding rate -0.3155%, spread -1.9512%)
+19:07:02  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:07:02  INFO      bot  ⏰ Scheduled entry for STOUSDT at 15:55:00 UTC (funding rate -0.2895%, spread -0.5939%)
+19:07:02  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:07:02  INFO      bot  ⏰ Scheduled entry for REDUSDT at 15:55:00 UTC (funding rate -0.2650%, spread -0.6425%)
+19:07:02  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:07:02  INFO      bot  ⏰ Scheduled entry for KERNELUSDT at 15:55:00 UTC (funding rate -0.1611%, spread -0.4606%)
+19:07:02  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:07:02  INFO      bot  ⏰ Scheduled entry for DYMUSDT at 15:55:00 UTC (funding rate -0.1091%, spread -0.1905%)
+19:07:33  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:07:33  ERROR     api_client  GET /fapi/v2/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+19:08:04  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:08:04  ERROR     api_client  GET /fapi/v2/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+19:08:28  INFO      main  ============================================================
+19:08:28  INFO      main     Funding Rate Arbitrage Bot
+19:08:28  INFO      main     Mode      : TESTNET
+19:08:28  INFO      main     Spot mode : margin
+19:08:28  INFO      main     Max coins : 10
+19:08:28  INFO      main     Leverage  : 1×
+19:08:28  INFO      main     Entry     : 5 min before funding
+19:08:28  INFO      main     Exit at   : spread ≤ 0.1%
+19:08:28  INFO      main  ============================================================
+19:08:28  INFO      bot  Restored 0 open position(s) from DB.
+19:08:28  INFO      main  Bot thread started.
+19:08:28  INFO      main  Dashboard → http://localhost:8050
+19:08:28  INFO      apscheduler.scheduler  Scheduler started
+19:08:28  INFO      dash.dash  Dash is running on http://0.0.0.0:8050/
+
+19:08:28  INFO      bot  ArbitrageBot started.
+19:08:28  INFO      bot  Main loop running.
+19:08:28  INFO      werkzeug  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.1.2:8050
+19:08:28  INFO      werkzeug  [33mPress CTRL+C to quit[0m
+19:08:30  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:08:30  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:08:30  INFO      bot  ⏰ Scheduled entry for ONGUSDT at 15:55:00 UTC (funding rate -1.1250%, spread -1.6888%)
+19:08:30  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:08:30  INFO      bot  ⏰ Scheduled entry for ENJUSDT at 15:55:00 UTC (funding rate -1.1250%, spread -2.8238%)
+19:08:30  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:08:30  INFO      bot  ⏰ Scheduled entry for TNSRUSDT at 15:55:00 UTC (funding rate -1.0537%, spread -0.4400%)
+19:08:30  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:08:30  INFO      bot  ⏰ Scheduled entry for BLURUSDT at 15:55:00 UTC (funding rate -0.7500%, spread -0.7745%)
+19:08:30  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:08:31  INFO      bot  ⏰ Scheduled entry for ONTUSDT at 15:55:00 UTC (funding rate -0.7500%, spread -0.6775%)
+19:08:31  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:08:31  INFO      bot  ⏰ Scheduled entry for OXTUSDT at 15:55:00 UTC (funding rate -0.7349%, spread -0.4132%)
+19:08:31  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:08:31  INFO      bot  ⏰ Scheduled entry for DYMUSDT at 15:55:00 UTC (funding rate -0.6975%, spread -0.9434%)
+19:08:31  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:08:31  INFO      bot  ⏰ Scheduled entry for STOUSDT at 15:55:00 UTC (funding rate -0.5447%, spread -0.9644%)
+19:08:31  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:08:31  INFO      bot  ⏰ Scheduled entry for RAREUSDT at 15:55:00 UTC (funding rate -0.4876%, spread -1.8072%)
+19:08:31  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:08:31  INFO      bot  ⏰ Scheduled entry for REDUSDT at 15:55:00 UTC (funding rate -0.3878%, spread -0.3511%)
+19:09:02  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:09:35  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:10:07  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:10:38  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:11:11  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:11:43  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:12:15  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:12:43  INFO      main  ============================================================
+19:12:43  INFO      main     Funding Rate Arbitrage Bot
+19:12:43  INFO      main     Mode      : TESTNET
+19:12:43  INFO      main     Spot mode : margin
+19:12:43  INFO      main     Max coins : 10
+19:12:43  INFO      main     Leverage  : 1×
+19:12:43  INFO      main     Entry     : 5 min before funding
+19:12:43  INFO      main     Exit at   : spread ≤ 0.1%
+19:12:43  INFO      main  ============================================================
+19:12:43  INFO      bot  Restored 0 open position(s) from DB.
+19:12:43  INFO      main  Bot thread started.
+19:12:43  INFO      main  Dashboard → http://localhost:8050
+19:12:43  INFO      apscheduler.scheduler  Scheduler started
+19:12:43  INFO      dash.dash  Dash is running on http://0.0.0.0:8050/
+
+19:12:43  INFO      bot  ArbitrageBot started.
+19:12:43  INFO      bot  Main loop running.
+19:12:43  INFO      werkzeug  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://192.168.1.2:8050
+19:12:43  INFO      werkzeug  [33mPress CTRL+C to quit[0m
+19:12:46  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:12:46  ERROR     api_client  GET /fapi/v2/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+19:12:46  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:12:46  INFO      bot  ⏰ Scheduled entry for ONGUSDT at 15:55:00 UTC (funding rate -1.1250%, spread -1.3599%)
+19:12:46  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:12:46  INFO      bot  ⏰ Scheduled entry for ENJUSDT at 15:55:00 UTC (funding rate -1.1250%, spread -3.7194%)
+19:12:46  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:12:46  INFO      bot  ⏰ Scheduled entry for TNSRUSDT at 15:55:00 UTC (funding rate -1.0426%, spread -1.3750%)
+19:12:46  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:12:46  INFO      bot  ⏰ Scheduled entry for BLURUSDT at 15:55:00 UTC (funding rate -0.7500%, spread -0.8997%)
+19:12:46  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:12:46  INFO      bot  ⏰ Scheduled entry for ONTUSDT at 15:55:00 UTC (funding rate -0.7500%, spread -0.5572%)
+19:12:46  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:12:46  INFO      bot  ⏰ Scheduled entry for OXTUSDT at 15:55:00 UTC (funding rate -0.7369%, spread -0.3306%)
+19:12:46  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:12:46  INFO      bot  ⏰ Scheduled entry for DYMUSDT at 15:55:00 UTC (funding rate -0.6920%, spread -0.4327%)
+19:12:46  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:12:46  INFO      bot  ⏰ Scheduled entry for STOUSDT at 15:55:00 UTC (funding rate -0.5450%, spread 0.0414%)
+19:12:46  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:12:46  INFO      bot  ⏰ Scheduled entry for RAREUSDT at 15:55:00 UTC (funding rate -0.5173%, spread -2.2289%)
+19:12:46  INFO      apscheduler.scheduler  Added job "ArbitrageBot._open_position" to job store "default"
+19:12:46  INFO      bot  ⏰ Scheduled entry for REDUSDT at 15:55:00 UTC (funding rate -0.3886%, spread -0.2343%)
+19:13:18  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:13:19  ERROR     api_client  GET /fapi/v2/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+19:13:29  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:29] "GET / HTTP/1.1" 200 -
+19:13:29  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:29] "GET /_dash-component-suites/dash/deps/prop-types@15.v2_17_1m1775284608.8.1.min.js HTTP/1.1" 200 -
+19:13:29  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:29] "GET /_dash-component-suites/dash/deps/react@16.v2_17_1m1775284608.14.0.min.js HTTP/1.1" 200 -
+19:13:29  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:29] "GET /_dash-component-suites/dash/deps/react-dom@16.v2_17_1m1775284608.14.0.min.js HTTP/1.1" 200 -
+19:13:29  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:29] "GET /_dash-component-suites/dash/deps/polyfill@7.v2_17_1m1775284608.12.1.min.js HTTP/1.1" 200 -
+19:13:29  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:29] "GET /_dash-component-suites/dash_bootstrap_components/_components/dash_bootstrap_components.v1_6_0m1775284612.min.js HTTP/1.1" 200 -
+19:13:30  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:30] "GET /_dash-component-suites/dash/dcc/dash_core_components-shared.v2_14_1m1775284608.js HTTP/1.1" 200 -
+19:13:30  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:30] "GET /_dash-component-suites/dash/html/dash_html_components.v2_0_18m1775284603.min.js HTTP/1.1" 200 -
+19:13:30  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:30] "GET /_dash-component-suites/dash/dash_table/bundle.v5_2_11m1775284608.js HTTP/1.1" 200 -
+19:13:31  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:31] "GET /_dash-component-suites/dash/dash-renderer/build/dash_renderer.v2_17_1m1775284608.min.js HTTP/1.1" 200 -
+19:13:31  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:31] "GET /_dash-component-suites/dash/dcc/dash_core_components.v2_14_1m1775284608.js HTTP/1.1" 200 -
+19:13:31  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:31] "GET /_dash-layout HTTP/1.1" 200 -
+19:13:31  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:31] "GET /_dash-dependencies HTTP/1.1" 200 -
+19:13:31  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:31] "GET /_favicon.ico?v=2.17.1 HTTP/1.1" 200 -
+19:13:32  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:32] "GET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 -
+19:13:32  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:32] "GET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 -
+19:13:34  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:34] "POST /_dash-update-component HTTP/1.1" 200 -
+19:13:42  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:42] "POST /_dash-update-component HTTP/1.1" 200 -
+19:13:50  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:13:50  ERROR     api_client  GET /fapi/v2/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+19:13:52  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:13:52] "POST /_dash-update-component HTTP/1.1" 200 -
+19:14:02  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:14:02] "POST /_dash-update-component HTTP/1.1" 200 -
+19:14:12  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:14:12] "POST /_dash-update-component HTTP/1.1" 200 -
+19:14:22  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:14:22] "POST /_dash-update-component HTTP/1.1" 200 -
+19:14:22  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:14:22  ERROR     api_client  GET /fapi/v2/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+19:14:32  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:14:32] "POST /_dash-update-component HTTP/1.1" 200 -
+19:14:42  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:14:42] "POST /_dash-update-component HTTP/1.1" 200 -
+19:14:53  INFO      werkzeug  127.0.0.1 - - [09/Apr/2026 19:14:53] "POST /_dash-update-component HTTP/1.1" 200 -
+19:14:54  ERROR     api_client  GET /api/v3/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+19:14:55  ERROR     api_client  GET /fapi/v2/account → 401: {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action"}
+13:56:49  INFO      main  ============================================================
+13:56:49  INFO      main     Funding Rate Arbitrage Bot
+13:56:49  INFO      main     Mode      : TESTNET
+13:56:49  INFO      main     Spot mode : margin
+13:56:49  INFO      main     Max coins : 10
+13:56:49  INFO      main     Leverage  : 1×
+13:56:49  INFO      main     Entry     : 5 min before funding
+13:56:49  INFO      main     Exit at   : spread ≤ 0.1%
+13:56:49  INFO      main  ============================================================
+13:56:49  INFO      bot  Restored 0 open position(s) from DB.
+13:56:49  INFO      apscheduler.scheduler  Scheduler started
+13:56:49  INFO      main  Bot thread started.
+13:56:49  INFO      main  Dashboard → http://localhost:8050
+13:56:49  INFO      dash.dash  Dash is running on http://0.0.0.0:8050/
+
+13:56:49  INFO      bot  ArbitrageBot started.
+13:56:49  INFO      bot  Main loop running.
+13:56:49  ERROR     api_client  GET /fapi/v1/premiumIndex exception: HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Max retries exceeded with url: /fapi/v1/premiumIndex (Caused by NewConnectionError("HTTPSConnection(host='testnet.binancefuture.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+13:56:49  ERROR     api_client  GET /api/v3/account exception: HTTPSConnectionPool(host='testnet.binance.vision', port=443): Max retries exceeded with url: /api/v3/account?timestamp=1779352009194&signature=4328686632b29c1bb926f91427e7c18d8207234eb77b699649f80a4139985b52 (Caused by NewConnectionError("HTTPSConnection(host='testnet.binance.vision', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+13:56:49  ERROR     api_client  GET /fapi/v2/account exception: HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Max retries exceeded with url: /fapi/v2/account?timestamp=1779352009260&signature=a53f3f5fac07d4647101125acddb2a80366c2a2f3aa89f46dd152080ee89a174 (Caused by NewConnectionError("HTTPSConnection(host='testnet.binancefuture.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+13:56:49  INFO      werkzeug  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://172.31.31.64:8050
+13:56:49  INFO      werkzeug  [33mPress CTRL+C to quit[0m
+13:58:11  INFO      main  ============================================================
+13:58:11  INFO      main     Funding Rate Arbitrage Bot
+13:58:11  INFO      main     Mode      : TESTNET
+13:58:11  INFO      main     Spot mode : margin
+13:58:11  INFO      main     Max coins : 10
+13:58:11  INFO      main     Leverage  : 1x
+13:58:11  INFO      main     Entry     : 5 min before funding
+13:58:11  INFO      main     Exit at   : spread <= 0.1%
+13:58:11  INFO      main  ============================================================
+13:58:11  INFO      bot  Restored 0 open position(s) from DB.
+13:58:11  INFO      apscheduler.scheduler  Scheduler started
+13:58:11  INFO      main  Bot thread started.
+13:58:11  INFO      main  Dashboard -> http://localhost:8050
+13:58:11  INFO      bot  ArbitrageBot started.
+13:58:11  INFO      bot  Main loop running.
+13:58:11  INFO      dash.dash  Dash is running on http://0.0.0.0:8050/
+
+13:58:11  ERROR     api_client  GET /fapi/v1/premiumIndex exception: HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Max retries exceeded with url: /fapi/v1/premiumIndex (Caused by NewConnectionError("HTTPSConnection(host='testnet.binancefuture.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+13:58:11  ERROR     api_client  GET /api/v3/account exception: HTTPSConnectionPool(host='testnet.binance.vision', port=443): Max retries exceeded with url: /api/v3/account?timestamp=1779352091422&signature=8ce89b7142f8a7fccb7afee79e97fe640d4967bb9f02d1ea7de9d491a121f990 (Caused by NewConnectionError("HTTPSConnection(host='testnet.binance.vision', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+13:58:11  ERROR     api_client  GET /fapi/v2/account exception: HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Max retries exceeded with url: /fapi/v2/account?timestamp=1779352091433&signature=82c7e6df72144a60d35bc47b4b6e84fcdab9108d7d85e333143851746fe17b4e (Caused by NewConnectionError("HTTPSConnection(host='testnet.binancefuture.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+13:58:11  INFO      werkzeug  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://172.31.31.64:8050
+13:58:11  INFO      werkzeug  [33mPress CTRL+C to quit[0m

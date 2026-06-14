@@ -1,0 +1,697 @@
+2026-05-22 12:11:37,315  INFO      main - ============================================================
+2026-05-22 12:11:37,318  INFO      main - BTC Futures DCA bot starting
+2026-05-22 12:11:37,323  INFO      main - ============================================================
+2026-05-22 12:11:37,324  INFO      delta_client - Delta Exchange India client using TESTNET / demo endpoint
+2026-05-22 12:11:38,506  INFO      delta_client - Using Delta Exchange India margin mode for BTCUSD (ISOLATED)
+2026-05-22 12:11:39,087  INFO      delta_client - Order leverage set to 5x for BTCUSD
+2026-05-22 12:11:39,088  INFO      dca_engine - Futures DCA Bot running | BTCUSD 5× EMA9/21 4h
+2026-05-22 12:11:40,827  INFO      signal_engine - EMA trend -> SHORT | EMA9 77493.41 -> 77540.81 | EMA21 77665.55 -> 77671.45 on 4h | BB bandwidth 0.0228
+2026-05-22 12:11:40,828  INFO      dca_engine - ▶ Starting SHORT round on BTCUSD
+2026-05-22 12:11:41,317  INFO      dca_engine - DCA round margin budget: 500.0000 (50% of futures wallet 1000.0000); planned full schedule: 149.2307
+2026-05-22 15:57:51,825  INFO      main - ============================================================
+2026-05-22 15:57:51,830  INFO      main - BTC Futures DCA bot starting
+2026-05-22 15:57:51,831  INFO      main - ============================================================
+2026-05-22 15:57:51,833  INFO      delta_client - Delta Exchange India client using TESTNET / demo endpoint
+2026-05-22 15:57:53,885  INFO      delta_client - Using Delta Exchange India margin mode for BTCUSD (ISOLATED)
+2026-05-22 15:57:54,448  INFO      delta_client - Order leverage set to 5x for BTCUSD
+2026-05-22 15:57:54,475  INFO      dca_engine - Futures DCA Bot running | BTCUSD 5× EMA9/21 4h
+2026-05-22 15:57:56,278  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 15:57:56,308  INFO      dca_engine - ▶ Starting SHORT round on BTCUSD
+2026-05-22 15:57:56,521  INFO      dca_engine - DCA round margin budget: 332.2524 (50% of futures wallet 664.5049); planned full schedule: 149.2307
+2026-05-22 15:58:01,526  INFO      dca_engine - Placed 8 DCA limit orders (total open: 8)
+2026-05-22 15:58:02,467  INFO      dca_engine - TP @ 76541.85  SL @ 78861.30
+2026-05-22 15:58:03,767  INFO      dca_engine - Round open | session=2 entry=77315.00 TP=76541.85 SL=78861.30
+2026-05-22 15:58:57,923  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 15:59:58,319  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:01:03,629  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:02:09,066  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:03:09,061  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:04:09,237  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:05:09,609  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:06:14,974  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:07:15,324  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:08:15,571  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:09:15,887  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:10:21,277  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:11:21,526  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:12:22,040  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:13:27,220  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:14:27,455  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:15:27,812  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:16:33,194  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:17:38,409  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:18:38,851  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:19:44,147  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:20:44,439  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:21:44,643  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:22:45,144  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:23:45,459  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:24:50,876  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:25:51,366  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:26:56,673  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:27:56,696  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:28:56,775  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:30:02,580  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:31:02,822  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:32:03,137  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:33:08,444  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:34:13,925  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:35:14,077  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:36:14,577  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:37:19,707  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:38:20,152  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:39:20,159  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:40:20,557  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:41:20,617  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:42:20,780  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:43:26,172  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:44:26,301  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:45:26,427  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:46:26,588  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:47:31,576  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:48:31,449  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:49:36,978  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:50:42,192  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:51:42,771  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:52:42,897  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:53:43,246  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:54:43,342  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:55:43,600  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:56:43,881  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:57:48,989  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:58:53,911  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 16:59:54,099  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:00:54,471  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:01:59,705  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:03:05,090  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:04:05,464  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:05:05,617  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:06:05,935  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:07:06,248  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:08:06,546  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:09:11,808  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:10:17,031  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:11:22,384  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:12:22,384  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:13:22,392  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:14:27,594  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:15:27,512  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:16:32,914  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:17:33,357  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:18:33,358  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:19:33,378  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:20:33,376  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:21:38,743  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:22:39,019  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:23:39,185  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:24:39,483  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:25:39,984  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:26:40,168  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:27:40,704  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:28:40,852  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:29:46,052  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:30:46,366  INFO      signal_engine - EMA trend -> SHORT | EMA9 77540.81 -> 77506.11 | EMA21 77671.45 -> 77643.80 | BB bandwidth 0.0166 | ATR range 74569.34 - 80533.86
+2026-05-22 17:31:46,537  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:31:46,541  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:32:46,553  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:32:46,554  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:33:46,655  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:33:46,655  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:34:46,901  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:34:46,902  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:35:47,061  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:35:47,062  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:36:47,095  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:36:47,095  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:37:52,372  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:37:52,373  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:38:52,753  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:38:52,769  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:39:52,758  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:39:52,759  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:40:58,002  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:40:58,002  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:42:03,264  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:42:03,264  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:43:08,491  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:43:08,492  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:44:13,740  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:44:13,741  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:45:19,006  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:45:19,006  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:46:19,307  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:46:19,308  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:47:19,660  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:47:19,660  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:48:19,718  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:48:19,719  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:49:19,730  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:49:19,734  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:50:20,084  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:50:20,085  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:51:20,593  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:51:20,594  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:52:20,927  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:52:20,933  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:53:21,213  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:53:21,213  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:54:21,701  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:54:21,701  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:55:21,932  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:55:21,932  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:56:22,056  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:56:22,057  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:57:27,534  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:57:27,534  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:58:27,976  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:58:27,976  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 17:59:28,137  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 17:59:28,137  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:00:33,465  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:00:33,465  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:01:33,765  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:01:33,765  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:02:34,213  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:02:34,214  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:03:39,470  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:03:39,470  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:04:39,560  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:04:39,560  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:05:39,890  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:05:39,891  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:06:40,334  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:06:40,335  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:07:40,493  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:07:40,493  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:08:40,884  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:08:40,884  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:09:41,187  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:09:41,188  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:10:46,421  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:10:46,421  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:11:51,361  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:11:51,362  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:12:56,572  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:12:56,572  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:13:56,605  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:13:56,605  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:15:02,123  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:15:02,123  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:16:02,404  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:16:02,404  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:17:02,573  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:17:02,574  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:18:08,173  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:18:08,174  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:19:08,262  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:19:08,262  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:20:08,709  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:20:08,710  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:21:08,754  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:21:08,755  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:22:08,792  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:22:08,792  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:23:08,826  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:23:08,827  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:24:14,179  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:24:14,180  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:25:14,366  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:25:14,366  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:26:19,594  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:26:19,594  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:27:19,752  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:27:19,753  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:28:20,017  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:28:20,017  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:29:25,163  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:29:25,163  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:30:25,440  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:30:25,440  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:31:30,840  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:31:30,840  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:32:36,296  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:32:36,296  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:33:36,778  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:33:36,779  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:34:37,084  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:34:37,085  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:35:37,348  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:35:37,348  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:36:37,701  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:36:37,701  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:37:37,980  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:37:37,981  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:38:37,887  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:38:37,887  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:39:38,228  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:39:38,229  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:40:38,721  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:40:38,721  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:41:44,173  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:41:44,174  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:42:44,516  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:42:44,517  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:43:44,727  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:43:44,728  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:44:49,835  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:44:49,835  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:45:55,402  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:45:55,403  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:47:00,790  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:47:00,790  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:48:00,996  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:48:00,997  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:49:06,186  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:49:06,186  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:50:06,498  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:50:06,502  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:51:06,652  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:51:06,653  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:52:11,950  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:52:11,951  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:53:11,998  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:53:11,998  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:54:17,491  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:54:17,491  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:55:17,764  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:55:17,764  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:56:18,373  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:56:18,373  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:57:18,715  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:57:18,715  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:58:19,700  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:58:19,700  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 18:59:20,005  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 18:59:20,005  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:00:25,213  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:00:25,214  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:01:25,362  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:01:25,362  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:02:25,485  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:02:25,485  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:03:25,783  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:03:25,784  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:04:26,399  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:04:26,399  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:05:26,560  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:05:26,560  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:06:26,751  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:06:26,752  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:07:26,830  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:07:26,830  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:08:31,924  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:08:31,925  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:09:37,338  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:09:37,339  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:10:37,691  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:10:37,691  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:11:37,795  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:11:37,796  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:12:43,208  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:12:43,209  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:13:43,890  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:13:43,890  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:14:45,558  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:14:45,559  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:15:45,707  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:15:45,707  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:16:45,780  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:16:45,781  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:17:51,395  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:17:51,395  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:18:51,543  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:18:51,543  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:19:56,774  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:19:56,775  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:21:01,791  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:21:01,792  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:22:06,930  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:22:06,930  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:23:07,720  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:23:07,720  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:24:07,933  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:24:07,933  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:25:08,419  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:25:08,420  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:26:08,448  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:26:08,448  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:27:03,237  INFO      delta_client - All open orders cancelled for BTCUSD
+2026-05-22 19:27:04,581  INFO      dca_engine - Round closed | reason=SL  pnl=+0.13  total_pnl=+0.13
+2026-05-22 19:27:09,823  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:27:09,824  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:28:09,922  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:28:09,923  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:29:10,165  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:29:10,165  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:30:10,402  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:30:10,403  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:32:24,108  INFO      main - ============================================================
+2026-05-22 19:32:24,110  INFO      main - BTC Futures DCA bot starting
+2026-05-22 19:32:24,110  INFO      main - ============================================================
+2026-05-22 19:32:24,111  INFO      delta_client - Delta Exchange India client using TESTNET / demo endpoint
+2026-05-22 19:32:25,052  INFO      delta_client - Using Delta Exchange India margin mode for BTCUSD (ISOLATED)
+2026-05-22 19:32:25,528  INFO      delta_client - Order leverage set to 5x for BTCUSD
+2026-05-22 19:32:25,530  INFO      dca_engine - Futures DCA Bot running | BTCUSD 5× EMA9/21 4h
+2026-05-22 19:32:26,770  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:32:26,770  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:33:27,249  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:33:27,252  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:34:27,374  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:34:27,374  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:35:27,611  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:35:27,612  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:36:27,891  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:36:27,892  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:37:28,145  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:37:28,145  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:38:28,388  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:38:28,388  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:39:28,629  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:39:28,630  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:40:28,866  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:40:28,867  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:41:29,106  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:41:29,106  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:42:29,483  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:42:29,484  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:43:29,720  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:43:29,720  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:44:29,954  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:44:29,955  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:45:30,201  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:45:30,202  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:46:30,441  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:46:30,442  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:47:30,540  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:47:30,540  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:48:30,800  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:48:30,801  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:49:31,044  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:49:31,045  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:50:31,286  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:50:31,289  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:51:31,389  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:51:31,390  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:52:31,634  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:52:31,634  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:53:31,872  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:53:31,872  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:54:32,110  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:54:32,111  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:55:32,350  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:55:32,351  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:56:32,589  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:56:32,590  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:57:32,694  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:57:32,695  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:58:32,793  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:58:32,794  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 19:59:33,034  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 19:59:33,034  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:00:33,269  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:00:33,270  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:01:33,503  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:01:33,504  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:02:33,605  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:02:33,606  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:03:33,710  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:03:33,711  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:04:33,951  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:04:33,952  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:05:34,193  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:05:34,194  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:06:35,396  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:06:35,397  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:07:35,631  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:07:35,631  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:08:35,867  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:08:35,868  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:09:36,114  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:09:36,115  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:10:36,355  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:10:36,357  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:11:36,667  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:11:36,667  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:12:36,914  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:12:36,914  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:13:37,157  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:13:37,158  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:14:37,394  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:14:37,395  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:15:37,633  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:15:37,633  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:16:37,873  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:16:37,874  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:17:38,116  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:17:38,117  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:18:38,410  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:18:38,410  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:19:38,650  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:19:38,651  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:20:38,752  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:20:38,753  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:21:38,991  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:21:38,991  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:22:39,229  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:22:39,229  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:23:39,464  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:23:39,464  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:24:39,701  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:24:39,702  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:25:39,947  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:25:39,947  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:26:40,187  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:26:40,188  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:27:40,423  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:27:40,424  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:28:40,729  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:28:40,730  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:29:40,829  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:29:40,830  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:30:41,066  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:30:41,066  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:31:41,304  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:31:41,304  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:32:41,539  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:32:41,540  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:33:41,776  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:33:41,776  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:34:42,021  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:34:42,022  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:35:42,257  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:35:42,257  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:36:42,497  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:36:42,497  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:37:42,735  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:37:42,735  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:38:42,973  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:38:42,973  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:39:43,208  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:39:43,208  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:40:43,451  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:40:43,451  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:41:43,692  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:41:43,692  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:42:43,929  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:42:43,929  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:43:44,242  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:43:44,243  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:44:44,485  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:44:44,485  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:45:44,727  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:45:44,727  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:46:44,967  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:46:44,967  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:47:45,198  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:47:45,199  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:48:45,438  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:48:45,439  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:49:45,677  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:49:45,677  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:50:45,920  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:50:45,923  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:51:46,212  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:51:46,213  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:52:46,453  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:52:46,454  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:53:46,607  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:53:46,608  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:54:46,707  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:54:46,707  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:55:46,949  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:55:46,949  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:56:47,187  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:56:47,188  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:57:47,423  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:57:47,424  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:58:47,659  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:58:47,660  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 20:59:47,761  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 20:59:47,761  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:00:47,998  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:00:47,998  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:01:48,107  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:01:48,107  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:02:48,343  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:02:48,343  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:03:48,585  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:03:48,585  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:04:48,828  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:04:48,829  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:05:49,070  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:05:49,070  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:06:49,305  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:06:49,305  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:07:49,541  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:07:49,542  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:08:49,780  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:08:49,781  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:09:50,084  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:09:50,085  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:10:50,324  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:10:50,325  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:11:50,560  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:11:50,560  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:12:50,802  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:12:50,802  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:13:51,049  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:13:51,049  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:14:51,288  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:14:51,288  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:15:51,387  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:15:51,388  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:16:51,628  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:16:51,629  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:17:51,867  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:17:51,867  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:18:52,104  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:18:52,105  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:19:52,342  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:19:52,342  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:20:52,585  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:20:52,585  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:21:52,820  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:21:52,820  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:22:53,056  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:22:53,056  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:23:53,297  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:23:53,297  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:24:53,534  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:24:53,535  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:25:53,773  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:25:53,773  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:26:54,013  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:26:54,013  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:27:54,254  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:27:54,254  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:28:54,494  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:28:54,494  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:29:54,595  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:29:54,595  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:30:54,843  INFO      signal_engine - Bollinger squeeze -> NEUTRAL | bandwidth 0.0124 <= 0.0150 | ATR range 74748.70 - 79894.90
+2026-05-22 21:30:54,843  INFO      dca_engine - No DCA entry while signal is NEUTRAL | squeeze=True | BB bandwidth=0.0124 | ATR%=0.0309
+2026-05-22 21:31:55,082  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:31:55,087  INFO      dca_engine - ▶ Starting SHORT round on BTCUSD
+2026-05-22 21:31:55,598  INFO      dca_engine - DCA round margin budget: 360.3224 (50% of futures wallet 720.6448); planned full schedule: 149.2307
+2026-05-22 21:32:00,435  INFO      dca_engine - Placed 8 DCA limit orders (total open: 8)
+2026-05-22 21:32:01,198  INFO      dca_engine - TP @ 76049.62  SL @ 78354.16
+2026-05-22 21:32:02,760  INFO      dca_engine - Round open | session=3 entry=76817.80 TP=76049.62 SL=78354.16
+2026-05-22 21:32:57,076  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:33:57,450  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:34:57,908  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:35:58,097  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:36:58,572  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:37:58,834  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:39:03,838  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:40:04,003  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:41:08,465  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:42:13,548  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:43:13,637  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:44:14,033  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:45:14,155  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:46:19,347  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:47:24,696  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:48:24,806  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:49:24,939  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:50:25,064  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:51:25,677  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:52:30,867  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:53:36,259  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:54:36,334  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:55:36,716  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:56:36,983  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:57:37,308  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:58:37,802  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 21:59:38,510  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:00:43,990  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:01:44,104  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:02:44,248  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:03:44,662  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:04:45,087  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:05:45,143  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:06:45,157  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:07:45,232  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:08:50,768  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:09:51,360  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:12:33,370  INFO      main - ============================================================
+2026-05-22 22:12:33,396  INFO      main - BTC Futures DCA bot starting
+2026-05-22 22:12:33,465  INFO      main - ============================================================
+2026-05-22 22:12:33,548  INFO      delta_client - Delta Exchange India client using TESTNET / demo endpoint
+2026-05-22 22:12:35,253  INFO      delta_client - Using Delta Exchange India margin mode for BTCUSD (ISOLATED)
+2026-05-22 22:12:35,612  INFO      delta_client - Order leverage set to 5x for BTCUSD
+2026-05-22 22:12:35,616  INFO      dca_engine - Futures DCA Bot running | BTCUSD 5× EMA9/21 4h
+2026-05-22 22:12:37,570  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:12:37,581  INFO      dca_engine - ▶ Starting SHORT round on BTCUSD
+2026-05-22 22:12:38,084  INFO      dca_engine - DCA round margin budget: 284.3736 (50% of futures wallet 568.7472); planned full schedule: 149.2307
+2026-05-22 22:12:42,836  INFO      dca_engine - Placed 8 DCA limit orders (total open: 8)
+2026-05-22 22:12:43,289  INFO      dca_engine - TP @ 76130.90  SL @ 78437.90
+2026-05-22 22:12:45,584  INFO      dca_engine - Round open | session=4 entry=76899.90 TP=76130.90 SL=78437.90
+2026-05-22 22:13:40,064  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:14:45,546  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:15:46,074  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:16:46,207  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:17:46,591  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:18:51,895  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:19:52,128  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:20:52,532  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:21:52,919  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:22:53,191  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:23:53,281  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:24:53,500  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:25:53,643  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:26:54,145  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:27:54,355  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:28:59,644  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:29:59,828  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:31:00,301  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:32:00,448  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:33:00,643  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:34:01,785  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:35:02,158  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:36:07,707  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 22:37:08,001  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:01:55,081  INFO      main - ============================================================
+2026-05-22 23:01:55,114  INFO      main - BTC Futures DCA bot starting
+2026-05-22 23:01:55,166  INFO      main - ============================================================
+2026-05-22 23:01:55,242  INFO      delta_client - Delta Exchange India client using TESTNET / demo endpoint
+2026-05-22 23:01:56,676  INFO      delta_client - Using Delta Exchange India margin mode for BTCUSD (ISOLATED)
+2026-05-22 23:01:57,186  INFO      delta_client - Order leverage set to 5x for BTCUSD
+2026-05-22 23:01:57,329  INFO      dca_engine - Futures DCA Bot running | BTCUSD 5× EMA9/21 4h
+2026-05-22 23:01:59,268  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:01:59,279  INFO      dca_engine - ▶ Starting SHORT round on BTCUSD
+2026-05-22 23:01:59,762  INFO      dca_engine - DCA round margin budget: 344.6727 (50% of futures wallet 689.3453); planned full schedule: 149.2307
+2026-05-22 23:02:04,327  INFO      dca_engine - Placed 8 DCA limit orders (total open: 8)
+2026-05-22 23:02:05,147  INFO      dca_engine - TP @ 76157.04  SL @ 78464.83
+2026-05-22 23:02:07,213  INFO      dca_engine - Round open | session=5 entry=76926.30 TP=76157.04 SL=78464.83
+2026-05-22 23:03:01,952  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:04:07,419  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:05:12,474  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:06:12,760  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:07:13,271  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:08:18,720  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:09:23,747  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:10:29,010  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:11:29,093  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:12:33,992  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:13:39,097  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
+2026-05-22 23:14:44,195  INFO      signal_engine - EMA trend -> SHORT | EMA9 77484.15 -> 77338.64 | EMA21 77621.29 -> 77542.68 | BB bandwidth 0.0158 | ATR range 74255.95 - 79822.75
